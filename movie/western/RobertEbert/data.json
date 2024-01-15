@@ -1,0 +1,2168 @@
+﻿[
+    {
+        "movie": "Departures",
+        "year": "2009",
+        "director": "Yojiro Takita",
+        "duration": "130 mins"
+    },
+    {
+        "movie": "Diva",
+        "year": "2008",
+        "director": "Jean-Jacques Beineix",
+        "duration": "117 mins"
+    },
+    {
+        "movie": "Chop Shop",
+        "year": "2008",
+        "director": "Ramin Bahrani",
+        "duration": "84 mins"
+    },
+    {
+        "movie": "Moolaade",
+        "year": "2007",
+        "director": "Ousmane Sembene",
+        "duration": "124 mins"
+    },
+    {
+        "movie": "Babel",
+        "year": "2007",
+        "director": "Alejandro Gonzalez Inarritu",
+        "duration": "143 mins"
+    },
+    {
+        "movie": "Caché",
+        "year": "2006",
+        "director": "Michael Haneke",
+        "duration": "117 mins"
+    },
+    {
+        "movie": "A Prairie Home Companion",
+        "year": "2006",
+        "director": "Garrison Keillor",
+        "duration": "105 mins"
+    },
+    {
+        "movie": "Pan’s Labyrinth",
+        "year": "2006",
+        "director": "Guillermo Del Toro",
+        "duration": "118 mins"
+    },
+    {
+        "movie": "Eternal Sunshine of the Spotless Mind",
+        "year": "2004",
+        "director": "Michel Gondry",
+        "duration": "108 mins"
+    },
+    {
+        "movie": "Lost in Translation",
+        "year": "2003",
+        "director": "Sofia Coppola",
+        "duration": "102 mins"
+    },
+    {
+        "movie": "Le Boucher",
+        "year": "2003",
+        "director": "Claude Chabrol",
+        "duration": "93 mins"
+    },
+    {
+        "movie": "Spring, Summer, Fall, Winter… and Spring",
+        "year": "2003",
+        "director": "Kim Ki-duk",
+        "duration": "103 mins"
+    },
+    {
+        "movie": "25th Hour",
+        "year": "2002",
+        "director": "David Benioff",
+        "duration": "132 mins"
+    },
+    {
+        "movie": "The Grey Zone",
+        "year": "2002",
+        "director": "Tim Blake Nelson",
+        "duration": "108 mins"
+    },
+    {
+        "movie": "Spirited Away",
+        "year": "2002",
+        "director": "Kirk Wise",
+        "duration": "124 mins"
+    },
+    {
+        "movie": "E.T. The Extra-Terrestrial",
+        "year": "2002",
+        "director": "Steven Spielberg",
+        "duration": "120 mins"
+    },
+    {
+        "movie": "Adaptation",
+        "year": "2002",
+        "director": "Spike Jonze",
+        "duration": "114 mins"
+    },
+    {
+        "movie": "Ripley’s Game",
+        "year": "2002",
+        "director": "Liliana Cavani",
+        "duration": "110 mins"
+    },
+    {
+        "movie": "2001: A Space Odyssey",
+        "year": "2001",
+        "director": "Geoffrey Unsworth",
+        "duration": "141 mins"
+    },
+    {
+        "movie": "A.I. Artificial Intelligence",
+        "year": "2001",
+        "director": "Steven Spielberg",
+        "duration": "145 mins"
+    },
+    {
+        "movie": "Waking Life",
+        "year": "2001",
+        "director": "The Cast Members",
+        "duration": "99 mins"
+    },
+    {
+        "movie": "Mulholland Dr.",
+        "year": "2001",
+        "director": "David Lynch",
+        "duration": "147 mins"
+    },
+    {
+        "movie": "The Pledge",
+        "year": "2001",
+        "director": "Friedrich Durrenmatt",
+        "duration": "124 mins"
+    },
+    {
+        "movie": "Werckmeister Harmonies",
+        "year": "2000",
+        "director": "Bela Tarr",
+        "duration": "145 mins"
+    },
+    {
+        "movie": "The Terrorist",
+        "year": "2000",
+        "director": "Santosh Sivan",
+        "duration": "95 mins"
+    },
+    {
+        "movie": "Magnolia",
+        "year": "1999",
+        "director": "Paul Thomas Anderson",
+        "duration": "188 mins"
+    },
+    {
+        "movie": "Dark City",
+        "year": "1998",
+        "director": "Alex Proyas",
+        "duration": "103 mins"
+    },
+    {
+        "movie": "The Big Lebowski",
+        "year": "1998",
+        "director": "Joel Coen",
+        "duration": "117 mins"
+    },
+    {
+        "movie": "Contact",
+        "year": "1997",
+        "director": "Michael Goldenberg",
+        "duration": "150 mins"
+    },
+    {
+        "movie": "L.A. Confidential",
+        "year": "1997",
+        "director": "James Ellroy",
+        "duration": "138 mins"
+    },
+    {
+        "movie": "Secrets and Lies",
+        "year": "1996",
+        "director": "Mike Leigh",
+        "duration": "144 mins"
+    },
+    {
+        "movie": "Fargo",
+        "year": "1996",
+        "director": "Joel Coen",
+        "duration": "98 mins"
+    },
+    {
+        "movie": "Richard III",
+        "year": "1996",
+        "director": "Richard Loncraine",
+        "duration": "104 mins"
+    },
+    {
+        "movie": "La Ceremonie",
+        "year": "1995",
+        "director": "Claude Chabrol",
+        "duration": "111 mins"
+    },
+    {
+        "movie": "Seven",
+        "year": "1995",
+        "director": "David Fincher",
+        "duration": "127 mins"
+    },
+    {
+        "movie": "Crumb",
+        "year": "1995",
+        "director": "Lynn O’Donnell",
+        "duration": "119 mins"
+    },
+    {
+        "movie": "Leaving Las Vegas",
+        "year": "1995",
+        "director": "Mike Figgis",
+        "duration": "112 mins"
+    },
+    {
+        "movie": "Hoop Dreams",
+        "year": "1994",
+        "director": "Steve James",
+        "duration": "165 mins"
+    },
+    {
+        "movie": "Pulp Fiction",
+        "year": "1994",
+        "director": "Quentin Tarantino",
+        "duration": "154 mins"
+    },
+    {
+        "movie": "My Fair Lady",
+        "year": "1994",
+        "director": "George Cukor",
+        "duration": "171 mins"
+    },
+    {
+        "movie": "Exotica",
+        "year": "1994",
+        "director": "Atom Egoyan",
+        "duration": "103 mins"
+    },
+    {
+        "movie": "The Shawshank Redemption",
+        "year": "1994",
+        "director": "Frank Darabont",
+        "duration": "142 mins"
+    },
+    {
+        "movie": "Schindler’s List",
+        "year": "1993",
+        "director": "Thomas Keneally",
+        "duration": "184 mins"
+    },
+    {
+        "movie": "Baraka",
+        "year": "1993",
+        "director": "Ron Fricke",
+        "duration": "96 mins"
+    },
+    {
+        "movie": "My Neighbor Totoro",
+        "year": "1993",
+        "director": "Hayao Miyazaki",
+        "duration": "86 mins"
+    },
+    {
+        "movie": "Leolo",
+        "year": "1993",
+        "director": "Jean-Claude Lauzon",
+        "duration": "107 mins"
+    },
+    {
+        "movie": "The Blue Kite",
+        "year": "1993",
+        "director": "Tian Zhuangzhuang",
+        "duration": "140 mins"
+    },
+    {
+        "movie": "Groundhog Day",
+        "year": "1993",
+        "director": "Harold Ramis",
+        "duration": "103 mins"
+    },
+    {
+        "movie": "The Age of Innocence",
+        "year": "1993",
+        "director": "Edith Wharton",
+        "duration": "132 mins"
+    },
+    {
+        "movie": "A Woman’s Tale",
+        "year": "1992",
+        "director": "Paul Cox",
+        "duration": "94 mins"
+    },
+    {
+        "movie": "A Tale of Winter",
+        "year": "1992",
+        "director": "Éric Rohmer",
+        "duration": "114 mins"
+    },
+    {
+        "movie": "Unforgiven",
+        "year": "1992",
+        "director": "Clint Eastwood",
+        "duration": "131 mins"
+    },
+    {
+        "movie": "La Belle Noiseuse",
+        "year": "1992",
+        "director": "Jacques Rivette",
+        "duration": "240 mins"
+    },
+    {
+        "movie": "Howards End",
+        "year": "1992",
+        "director": "James Ivory",
+        "duration": "140 mins"
+    },
+    {
+        "movie": "The Silence of the Lambs",
+        "year": "1991",
+        "director": "Jonathan Demme",
+        "duration": "116 mins"
+    },
+    {
+        "movie": "JFK",
+        "year": "1991",
+        "director": "Oliver Stone",
+        "duration": "188 mins"
+    },
+    {
+        "movie": "The Double Life of Veronique",
+        "year": "1991",
+        "director": "Krzysztof Kieslowski",
+        "duration": "96 mins"
+    },
+    {
+        "movie": "Raise the Red Lantern",
+        "year": "1990",
+        "director": "Zhang Yimou",
+        "duration": "125 mins"
+    },
+    {
+        "movie": "GoodFellas",
+        "year": "1990",
+        "director": "Martin Scorsese",
+        "duration": "148 mins"
+    },
+    {
+        "movie": "Santa Sangre",
+        "year": "1990",
+        "director": "Simon Boswell",
+        "duration": "124 mins"
+    },
+    {
+        "movie": "After Dark, My Sweet",
+        "year": "1990",
+        "director": "James Foley",
+        "duration": "114 mins"
+    },
+    {
+        "movie": "The Hairdresser’s Husband",
+        "year": "1990",
+        "director": "Patrice Leconte",
+        "duration": "82 mins"
+    },
+    {
+        "movie": "The Match Factory Girl",
+        "year": "1990",
+        "director": "Aki Kaurismäki",
+        "duration": "66 mins"
+    },
+    {
+        "movie": "Monsieur Hire",
+        "year": "1989",
+        "director": "Patrice Leconte",
+        "duration": "88 mins"
+    },
+    {
+        "movie": "Do the Right Thing",
+        "year": "1989",
+        "director": "Spike Lee",
+        "duration": "120 mins"
+    },
+    {
+        "movie": "Mystery Train",
+        "year": "1989",
+        "director": "John Lurie",
+        "duration": "113 mins"
+    },
+    {
+        "movie": "Say Anything",
+        "year": "1989",
+        "director": "Cameron Crowe",
+        "duration": "103 mins"
+    },
+    {
+        "movie": "Crimes and Misdemeanors",
+        "year": "1989",
+        "director": "Sven Nykvist",
+        "duration": "107 mins"
+    },
+    {
+        "movie": "The Last Temptation of Christ",
+        "year": "1988",
+        "director": "Martin Scorsese",
+        "duration": "164 mins"
+    },
+    {
+        "movie": "Moonstruck",
+        "year": "1988",
+        "director": "Norman Jewison",
+        "duration": "100 mins"
+    },
+    {
+        "movie": "The Decalogue",
+        "year": "1988",
+        "director": "Krzysztof Kieślowski",
+        "duration": "572 mins"
+    },
+    {
+        "movie": "Grave of the Fireflies",
+        "year": "1988",
+        "director": "Isao Takahata",
+        "duration": "89 mins"
+    },
+    {
+        "movie": "Wings of Desire",
+        "year": "1988",
+        "director": "Wim Wenders",
+        "duration": "128 mins"
+    },
+    {
+        "movie": "Au revoir les enfants",
+        "year": "1987",
+        "director": "Louis Malle",
+        "duration": "104 mins"
+    },
+    {
+        "movie": "The Dead",
+        "year": "1987",
+        "director": "John Huston",
+        "duration": "83 mins"
+    },
+    {
+        "movie": "Planes, Trains and Automobiles",
+        "year": "1987",
+        "director": "John Hughes",
+        "duration": "93 mins"
+    },
+    {
+        "movie": "Withnail and I",
+        "year": "1987",
+        "director": "Bruce Robinson",
+        "duration": "107 mins"
+    },
+    {
+        "movie": "House of Games",
+        "year": "1987",
+        "director": "David Mamet",
+        "duration": "102 mins"
+    },
+    {
+        "movie": "Ran",
+        "year": "1985",
+        "director": "Akira Kurosawa",
+        "duration": "162 mins"
+    },
+    {
+        "movie": "The Color Purple",
+        "year": "1985",
+        "director": "Steven Spielberg",
+        "duration": "150 mins"
+    },
+    {
+        "movie": "Mishima: A Life in Four Chapters",
+        "year": "1985",
+        "director": "Paul Schrader",
+        "duration": "121 mins"
+    },
+    {
+        "movie": "The Up Documentaries",
+        "year": "1985",
+        "director": "Paul Almond &amp; Michael Apted&nbsp;",
+        "duration": "40 – 150 mins"
+    },
+    {
+        "movie": "Shoah",
+        "year": "1985",
+        "director": "Claude Lanzmann",
+        "duration": "563 mins"
+    },
+    {
+        "movie": "This is Spinal Tap",
+        "year": "1985",
+        "director": "Rob Reiner",
+        "duration": "82 mins"
+    },
+    {
+        "movie": "After Hours",
+        "year": "1985",
+        "director": "Martin Scorsese",
+        "duration": "94 mins"
+    },
+    {
+        "movie": "Come and See",
+        "year": "1985",
+        "director": "Elem Klimov",
+        "duration": "136 mins"
+    },
+    {
+        "movie": "A Sunday in the Country",
+        "year": "1984",
+        "director": "Bertrand Tavernier",
+        "duration": "90 mins"
+    },
+    {
+        "movie": "Paris, Texas",
+        "year": "1984",
+        "director": "Wim Wenders",
+        "duration": "150 mins"
+    },
+    {
+        "movie": "Amadeus",
+        "year": "1984",
+        "director": "Miloš Forman",
+        "duration": "158 mins"
+    },
+    {
+        "movie": "A Year of the Quiet Sun",
+        "year": "1984",
+        "director": "Krzysztof Zanussi",
+        "duration": "106 mins"
+    },
+    {
+        "movie": "Tender Mercies",
+        "year": "1983",
+        "director": "Bruce Beresford",
+        "duration": "102 mins"
+    },
+    {
+        "movie": "El Norte",
+        "year": "1983",
+        "director": "Thomas",
+        "duration": "141 mins"
+    },
+    {
+        "movie": "A Christmas Story",
+        "year": "1983",
+        "director": "Bob Clark",
+        "duration": "94 mins"
+    },
+    {
+        "movie": "Fanny and Alexander",
+        "year": "1983",
+        "director": "Ingmar Bergman",
+        "duration": "188 mins"
+    },
+    {
+        "movie": "The Right Stuff",
+        "year": "1983",
+        "director": "Irwin Winkler",
+        "duration": "193 mins"
+    },
+    {
+        "movie": "Scarface",
+        "year": "1983",
+        "director": "Jerry Greenberg",
+        "duration": "170 mins"
+    },
+    {
+        "movie": "Fitzcarraldo",
+        "year": "1982",
+        "director": "Werner Herzog",
+        "duration": "157 mins"
+    },
+    {
+        "movie": "Blade Runner: The Final Cut",
+        "year": "1982",
+        "director": "Ridley Scott",
+        "duration": "117 mins"
+    },
+    {
+        "movie": "Mephisto",
+        "year": "1982",
+        "director": "Peter Dobai",
+        "duration": "144 mins"
+    },
+    {
+        "movie": "Pink Floyd: The Wall",
+        "year": "1982",
+        "director": "Alan Parker",
+        "duration": "95 mins"
+    },
+    {
+        "movie": "Veronika Voss",
+        "year": "1982",
+        "director": "Rainer Werner Fassbinder",
+        "duration": "105 mins"
+    },
+    {
+        "movie": "Body Heat",
+        "year": "1981",
+        "director": "Lawrence Kasdan",
+        "duration": "113 mins"
+    },
+    {
+        "movie": "Raiders of the Lost Ark",
+        "year": "1981",
+        "director": "Steven Spielberg",
+        "duration": "115 mins"
+    },
+    {
+        "movie": "My Dinner with Andre",
+        "year": "1981",
+        "director": "Louis Malle",
+        "duration": "110 mins"
+    },
+    {
+        "movie": "Vengeance is Mine",
+        "year": "1980",
+        "director": "Shohei",
+        "duration": "139 mins"
+    },
+    {
+        "movie": "The Shining",
+        "year": "1980",
+        "director": "Kubrick",
+        "duration": "142 mins"
+    },
+    {
+        "movie": "The Big Red One",
+        "year": "1980",
+        "director": "Gene Corman",
+        "duration": "113 mins"
+    },
+    {
+        "movie": "Mon oncle d’Amerique",
+        "year": "1980",
+        "director": "Alain Resnais",
+        "duration": "125 mins"
+    },
+    {
+        "movie": "Atlantic City",
+        "year": "1980",
+        "director": "Louis Malle",
+        "duration": "104 mins"
+    },
+    {
+        "movie": "Raging Bull",
+        "year": "1980",
+        "director": "Martin Scorsese",
+        "duration": "128 mins"
+    },
+    {
+        "movie": "Pixote",
+        "year": "1980",
+        "director": "Hector Babenco",
+        "duration": "128 mins"
+    },
+    {
+        "movie": "Apocalypse Now",
+        "year": "1979",
+        "director": "John Milius",
+        "duration": "153 mins"
+    },
+    {
+        "movie": "The Marriage of Maria Braun",
+        "year": "1979",
+        "director": "Pea Frohlicj",
+        "duration": "120 mins"
+    },
+    {
+        "movie": "Nosferatu the Vampyre",
+        "year": "1979",
+        "director": "Werner Herzog",
+        "duration": "107 mins"
+    },
+    {
+        "movie": "Manhattan",
+        "year": "1979",
+        "director": "Woody Allen",
+        "duration": "96 mins"
+    },
+    {
+        "movie": "Alien",
+        "year": "1979",
+        "director": "Ridley Scott",
+        "duration": "117 mins"
+    },
+    {
+        "movie": "Being There",
+        "year": "1979",
+        "director": "Hal Ashby",
+        "duration": "130 mins"
+    },
+    {
+        "movie": "Gates of Heaven",
+        "year": "1978",
+        "director": "Errol Morris",
+        "duration": "85 mins"
+    },
+    {
+        "movie": "Superman",
+        "year": "1978",
+        "director": "Richard Donner",
+        "duration": "143 mins"
+    },
+    {
+        "movie": "Days of Heaven",
+        "year": "1978",
+        "director": "Terrence Malick",
+        "duration": "94 mins"
+    },
+    {
+        "movie": "Stroszek",
+        "year": "1977",
+        "director": "Werner Herzog",
+        "duration": "115 mins"
+    },
+    {
+        "movie": "3 Women",
+        "year": "1977",
+        "director": "Robert Altman",
+        "duration": "125 mins"
+    },
+    {
+        "movie": "Star Wars",
+        "year": "1977",
+        "director": "George Lucas",
+        "duration": "121 mins"
+    },
+    {
+        "movie": "Annie Hall",
+        "year": "1977",
+        "director": "Charles H. Joffe",
+        "duration": "95 mins"
+    },
+    {
+        "movie": "Saturday Night Fever",
+        "year": "1977",
+        "director": "John Badham",
+        "duration": "118 mins"
+    },
+    {
+        "movie": "Killer of Sheep",
+        "year": "1977",
+        "director": "Charles Burnett",
+        "duration": "83 mins"
+    },
+    {
+        "movie": "Network",
+        "year": "1976",
+        "director": "Sidney Lumet",
+        "duration": "121 mins"
+    },
+    {
+        "movie": "Taxi Driver",
+        "year": "1976",
+        "director": "Bernard Herrmann",
+        "duration": "112 mins"
+    },
+    {
+        "movie": "Heart of Glass",
+        "year": "1976",
+        "director": "Werner Herzog",
+        "duration": "94 mins"
+    },
+    {
+        "movie": "Jaws",
+        "year": "1975",
+        "director": "Richard Zanuck",
+        "duration": "124 mins"
+    },
+    {
+        "movie": "Barry Lyndon",
+        "year": "1975",
+        "director": "Stanley Kubrick",
+        "duration": "184 mins"
+    },
+    {
+        "movie": "Picnic at Hanging Rock",
+        "year": "1975",
+        "director": "Russell Boyd",
+        "duration": "115 mins"
+    },
+    {
+        "movie": "One Flew Over the Cuckoo’s Nest",
+        "year": "1975",
+        "director": "Bo Goldman",
+        "duration": "129 mins"
+    },
+    {
+        "movie": "Dog Day Afternoon",
+        "year": "1975",
+        "director": "Sidney Lumet",
+        "duration": "120 mins"
+    },
+    {
+        "movie": "Night Moves",
+        "year": "1975",
+        "director": "Robert M. Sherman",
+        "duration": "100 mins"
+    },
+    {
+        "movie": "Nashville",
+        "year": "1975",
+        "director": "Robert Altman",
+        "duration": "159 mins"
+    },
+    {
+        "movie": "Chinatown",
+        "year": "1974",
+        "director": "Sam O’Steen",
+        "duration": "131 mins"
+    },
+    {
+        "movie": "Ali: Fear Eats the Soul",
+        "year": "1974",
+        "director": "Rainer Werner Fassbinder",
+        "duration": "94 mins"
+    },
+    {
+        "movie": "The Conversation",
+        "year": "1974",
+        "director": "Fred Roos",
+        "duration": "113 mins"
+    },
+    {
+        "movie": "A Woman Under the Influence",
+        "year": "1974",
+        "director": "Bo Harwood",
+        "duration": "155 mins"
+    },
+    {
+        "movie": "Amarcord",
+        "year": "1974",
+        "director": "Fellini",
+        "duration": "127 mins"
+    },
+    {
+        "movie": "The Godfather, Part II",
+        "year": "1974",
+        "director": "Gray Frederickson",
+        "duration": "200 mins"
+    },
+    {
+        "movie": "Bring Me the Head of Alfredo Garcia",
+        "year": "1974",
+        "director": "Sam Peckinpah",
+        "duration": "112 mins"
+    },
+    {
+        "movie": "The Enigma of Kaspar Hauser",
+        "year": "1974",
+        "director": "Werner Herzog",
+        "duration": "110 mins"
+    },
+    {
+        "movie": "Cries and Whispers",
+        "year": "1973",
+        "director": "Ingmar Bergman",
+        "duration": "91 mins"
+    },
+    {
+        "movie": "Mean Streets",
+        "year": "1973",
+        "director": "Martin Scorsese",
+        "duration": "110 mins"
+    },
+    {
+        "movie": "Spirit of the Beehive",
+        "year": "1973",
+        "director": "Victor Erice",
+        "duration": "97 mins"
+    },
+    {
+        "movie": "The Long Goodbye",
+        "year": "1973",
+        "director": "Robert Altman",
+        "duration": "112 mins"
+    },
+    {
+        "movie": "Don’t Look Now",
+        "year": "1973",
+        "director": "Nicolas Roeg",
+        "duration": "110 mins"
+    },
+    {
+        "movie": "Badlands",
+        "year": "1973",
+        "director": "Terrence Malick",
+        "duration": "95 mins"
+    },
+    {
+        "movie": "Day for Night",
+        "year": "1973",
+        "director": "Jean-Louis Richard",
+        "duration": "120 mins"
+    },
+    {
+        "movie": "Solaris",
+        "year": "1972",
+        "director": "Andrei Tarkovsky",
+        "duration": "167 mins"
+    },
+    {
+        "movie": "Last Tango in Paris",
+        "year": "1972",
+        "director": "Bernardo Bertolucci",
+        "duration": "129 mins"
+    },
+    {
+        "movie": "Late Spring",
+        "year": "1972",
+        "director": "Yasujirō Ozu",
+        "duration": "108 mins"
+    },
+    {
+        "movie": "The Discreet Charm of the Bourgeoisie",
+        "year": "1972",
+        "director": "Luis Buñuel",
+        "duration": "100 mins"
+    },
+    {
+        "movie": "The Godfather",
+        "year": "1972",
+        "director": "Gordon Willis",
+        "duration": "175 mins"
+    },
+    {
+        "movie": "Aguirre, the Wrath of God",
+        "year": "1972",
+        "director": "Werner Herzog",
+        "duration": "93 mins"
+    },
+    {
+        "movie": "McCabe and Mrs. Miller",
+        "year": "1971",
+        "director": "Robert Altman",
+        "duration": "120 mins"
+    },
+    {
+        "movie": "The Last Picture Show",
+        "year": "1971",
+        "director": "Peter Bogdanovich",
+        "duration": "118 mins"
+    },
+    {
+        "movie": "Walkabout",
+        "year": "1971",
+        "director": "Nicolas Roeg",
+        "duration": "95 mins"
+    },
+    {
+        "movie": "WR: Mysteries of the Organism",
+        "year": "1971",
+        "director": "Dusan Makavejev",
+        "duration": "84 mins"
+    },
+    {
+        "movie": "Mon Oncle Antoine",
+        "year": "1971",
+        "director": "Claude Jutra",
+        "duration": "104 mins"
+    },
+    {
+        "movie": "Woodstock",
+        "year": "1970",
+        "director": "Michael Wadleigh",
+        "duration": "184 mins"
+    },
+    {
+        "movie": "Five Easy Pieces",
+        "year": "1970",
+        "director": "Bob Rafelson",
+        "duration": "98 mins"
+    },
+    {
+        "movie": "El Topo",
+        "year": "1970",
+        "director": "Alejandro Jodorowsky",
+        "duration": "125 mins"
+    },
+    {
+        "movie": "Patton",
+        "year": "1970",
+        "director": "Franklin J. Schaffner",
+        "duration": "172 mins"
+    },
+    {
+        "movie": "The Wild Bunch",
+        "year": "1969",
+        "director": "Lucien Ballard",
+        "duration": "145 mins"
+    },
+    {
+        "movie": "Red Beard",
+        "year": "1969",
+        "director": "Masato Ide",
+        "duration": "185 mins"
+    },
+    {
+        "movie": "The Firemen’s Ball",
+        "year": "1969",
+        "director": "Milos Forman",
+        "duration": "71 mins"
+    },
+    {
+        "movie": "Easy Rider",
+        "year": "1969",
+        "director": "Peter Fonda",
+        "duration": "94 mins"
+    },
+    {
+        "movie": "Army of Shadows",
+        "year": "1969",
+        "director": "Joseph Kessel",
+        "duration": "139 mins"
+    },
+    {
+        "movie": "In Cold Blood",
+        "year": "1968",
+        "director": "Richard Brooks",
+        "duration": "134 mins"
+    },
+    {
+        "movie": "The Battle of Algiers",
+        "year": "1968",
+        "director": "Musu-lgor Films",
+        "duration": "121 mins"
+    },
+    {
+        "movie": "Romeo and Juliet",
+        "year": "1968",
+        "director": "Masolino D’Amico",
+        "duration": "138 mins"
+    },
+    {
+        "movie": "The Good, the Bad and the Ugly",
+        "year": "1968",
+        "director": "Age Scarpelli",
+        "duration": "161 mins"
+    },
+    {
+        "movie": "The Producers",
+        "year": "1968",
+        "director": "Mel Brooks",
+        "duration": "88 mins"
+    },
+    {
+        "movie": "The Exterminating Angel",
+        "year": "1968",
+        "director": "Gabriel Figueroa",
+        "duration": "95 mins"
+    },
+    {
+        "movie": "Belle de Jour",
+        "year": "1968",
+        "director": "Luis Bunuel",
+        "duration": "101 mins"
+    },
+    {
+        "movie": "Yellow Submarine",
+        "year": "1968",
+        "director": "George Martin",
+        "duration": "90 mins"
+    },
+    {
+        "movie": "Le Samourai",
+        "year": "1967",
+        "director": "Henri Decae",
+        "duration": "105 mins"
+    },
+    {
+        "movie": "Cool Hand Luke",
+        "year": "1967",
+        "director": "Stuart Rosenberg",
+        "duration": "126 mins"
+    },
+    {
+        "movie": "Persona",
+        "year": "1967",
+        "director": "Svensk Flimindustri",
+        "duration": "83 mins"
+    },
+    {
+        "movie": "La Collectionneuse",
+        "year": "1967",
+        "director": "Eric Rohmer",
+        "duration": "89 mins"
+    },
+    {
+        "movie": "Samurai Rebellion",
+        "year": "1967",
+        "director": "Hairyozuma Shimatsu",
+        "duration": "128 mins"
+    },
+    {
+        "movie": "Playtime",
+        "year": "1967",
+        "director": "Jacques Tati",
+        "duration": "124 mins"
+    },
+    {
+        "movie": "Bonnie and Clyde",
+        "year": "1967",
+        "director": "Warren Beatty",
+        "duration": "111 mins"
+    },
+    {
+        "movie": "Au Hasard Balthazar",
+        "year": "1966",
+        "director": "Robert Bresson",
+        "duration": "95 mins"
+    },
+    {
+        "movie": "Blow-Up",
+        "year": "1966",
+        "director": "Antonioni",
+        "duration": "111 mins"
+    },
+    {
+        "movie": "Chimes at Midnight",
+        "year": "1965",
+        "director": "Orson Welles",
+        "duration": "117 mins"
+    },
+    {
+        "movie": "Juliet of the Spirits",
+        "year": "1965",
+        "director": "Federico Fellini",
+        "duration": "137 mins"
+    },
+    {
+        "movie": "The Gospel According to St. Matthew",
+        "year": "1964",
+        "director": "Pier Paolo Pasolini",
+        "duration": "137 mins"
+    },
+    {
+        "movie": "A Hard Day’s Night",
+        "year": "1964",
+        "director": "Richard Lester",
+        "duration": "91 mins"
+    },
+    {
+        "movie": "Goldfinger",
+        "year": "1964",
+        "director": "Albert Broccoli",
+        "duration": "110 mins"
+    },
+    {
+        "movie": "Pale Flower",
+        "year": "1964",
+        "director": "Masahiro Shinoda",
+        "duration": "96 mins"
+    },
+    {
+        "movie": "Woman in the Dunes",
+        "year": "1964",
+        "director": "Kobo Abe",
+        "duration": "123 mins"
+    },
+    {
+        "movie": "Dr. Strangelove",
+        "year": "1964",
+        "director": "Stanley Kubrick",
+        "duration": "95 mins"
+    },
+    {
+        "movie": "8 1/2",
+        "year": "1963",
+        "director": "Federico Fellini",
+        "duration": "138 mins"
+    },
+    {
+        "movie": "The Leopard",
+        "year": "1963",
+        "director": "Luchino Visconti",
+        "duration": "185 mins"
+    },
+    {
+        "movie": "My Life to Live",
+        "year": "1963",
+        "director": "Jean-Luc Godard",
+        "duration": "85 mins"
+    },
+    {
+        "movie": "The Silence",
+        "year": "1963",
+        "director": "Ingmar Bergman",
+        "duration": "96 mins"
+    },
+    {
+        "movie": "Cléo from 5 to 7",
+        "year": "1962",
+        "director": "Agnès Varda",
+        "duration": "90 mins"
+    },
+    {
+        "movie": "The Manchurian Candidate",
+        "year": "1962",
+        "director": "John Frankenheimer",
+        "duration": "126 mins"
+    },
+    {
+        "movie": "Winter Light",
+        "year": "1962",
+        "director": "Ingmar Bergman",
+        "duration": "81 mins"
+    },
+    {
+        "movie": "Lawrence of Arabia",
+        "year": "1962",
+        "director": "David Lean",
+        "duration": "216 mins"
+    },
+    {
+        "movie": "What Ever Happened to Baby Jane?",
+        "year": "1962",
+        "director": "Robert Aldrich",
+        "duration": "135 mins"
+    },
+    {
+        "movie": "Harakiri",
+        "year": "1962",
+        "director": "Masaki Kobayashi",
+        "duration": "135 mins"
+    },
+    {
+        "movie": "The Man Who Shot Liberty Valance",
+        "year": "1962",
+        "director": "John Ford",
+        "duration": "123 mins"
+    },
+    {
+        "movie": "An Autumn Afternoon",
+        "year": "1962",
+        "director": "Yasujirō Ozu",
+        "duration": "112 mins"
+    },
+    {
+        "movie": "The Hustler",
+        "year": "1961",
+        "director": "Robert Rossen",
+        "duration": "134 mins"
+    },
+    {
+        "movie": "Last Year at Marienbad",
+        "year": "1961",
+        "director": "Alain Resnais",
+        "duration": "94 mins"
+    },
+    {
+        "movie": "Through a Glass Darkly",
+        "year": "1961",
+        "director": "Ingmar Bergman",
+        "duration": "89 mins"
+    },
+    {
+        "movie": "Yojimbo",
+        "year": "1961",
+        "director": "Akira Kurosawa",
+        "duration": "110 mins"
+    },
+    {
+        "movie": "Viridiana",
+        "year": "1961",
+        "director": "Luis Buñuel",
+        "duration": "90 mins"
+    },
+    {
+        "movie": "Leon Morin, Priest",
+        "year": "1961",
+        "director": "Jean-Pierre Melville",
+        "duration": "130 mins"
+    },
+    {
+        "movie": "West Side Story",
+        "year": "1961",
+        "director": "Jerome Robbins &amp; Robert Wise",
+        "duration": "152 mins"
+    },
+    {
+        "movie": "Victim",
+        "year": "1961",
+        "director": "Basil Dearden",
+        "duration": "90 mins"
+    },
+    {
+        "movie": "Jules and Jim",
+        "year": "1961",
+        "director": "Henri-Pierre Roche",
+        "duration": "110 mins"
+    },
+    {
+        "movie": "Peeping Tom",
+        "year": "1960",
+        "director": "Michael Powell",
+        "duration": "101 mins"
+    },
+    {
+        "movie": "Inherit the Wind",
+        "year": "1960",
+        "director": "Stanley Kramer",
+        "duration": "128 mins"
+    },
+    {
+        "movie": "Rocco and His Brothers",
+        "year": "1960",
+        "director": "Luchino Visconti",
+        "duration": "168 mins"
+    },
+    {
+        "movie": "La Dolce Vita",
+        "year": "1960",
+        "director": "Franco Magli",
+        "duration": "174 mins"
+    },
+    {
+        "movie": "L’Avventura",
+        "year": "1960",
+        "director": "Cino Del Duca",
+        "duration": "145 mins"
+    },
+    {
+        "movie": "Psycho",
+        "year": "1960",
+        "director": "Alfred Hitchcock",
+        "duration": "109 mins"
+    },
+    {
+        "movie": "The Apartment",
+        "year": "1960",
+        "director": "Billy Wilder",
+        "duration": "125 mins"
+    },
+    {
+        "movie": "Breathless",
+        "year": "1960",
+        "director": "Jean-Luc Godard",
+        "duration": "90 mins"
+    },
+    {
+        "movie": "The 400 Blows",
+        "year": "1959",
+        "director": "François Truffaut",
+        "duration": "99 mins"
+    },
+    {
+        "movie": "Floating Weeds",
+        "year": "1959",
+        "director": "Ozu",
+        "duration": "119 mins"
+    },
+    {
+        "movie": "The Apu Trilogy",
+        "year": "1959",
+        "director": "Satyajit Ray",
+        "duration": "342 mins"
+    },
+    {
+        "movie": "Some Like It Hot",
+        "year": "1959",
+        "director": "Billy Wilder",
+        "duration": "122 mins"
+    },
+    {
+        "movie": "Rio Bravo",
+        "year": "1959",
+        "director": "Howard Hawks",
+        "duration": "141 mins"
+    },
+    {
+        "movie": "Pickpocket",
+        "year": "1959",
+        "director": "Robert Bresson",
+        "duration": "75 mins"
+    },
+    {
+        "movie": "Ivan the Terrible, Parts I &amp; II",
+        "year": "1958",
+        "director": "Sergei Eisenstein",
+        "duration": "88 mins"
+    },
+    {
+        "movie": "Ballad of Narayama",
+        "year": "1958",
+        "director": "Keisuke Kinoshita",
+        "duration": "98 mins"
+    },
+    {
+        "movie": "Vertigo",
+        "year": "1958",
+        "director": "Alfred Hitchcock",
+        "duration": "129 mins"
+    },
+    {
+        "movie": "The Music Room",
+        "year": "1958",
+        "director": "Tarashankar Banerjee",
+        "duration": "100 mins"
+    },
+    {
+        "movie": "Touch of Evil",
+        "year": "1958",
+        "director": "Orson Welles",
+        "duration": "108 mins"
+    },
+    {
+        "movie": "Mon Oncle",
+        "year": "1958",
+        "director": "Jacques Tati",
+        "duration": "110 mins"
+    },
+    {
+        "movie": "12 Angry Men",
+        "year": "1957",
+        "director": "Sidney Lumet",
+        "duration": "96 mins"
+    },
+    {
+        "movie": "The Bridge on the River Kwai",
+        "year": "1957",
+        "director": "David Lean",
+        "duration": "161 mins"
+    },
+    {
+        "movie": "Nights of Cabiria",
+        "year": "1957",
+        "director": "Fellini",
+        "duration": "110 mins"
+    },
+    {
+        "movie": "The Seventh Seal",
+        "year": "1957",
+        "director": "Sixten Ehrling",
+        "duration": "97 mins"
+    },
+    {
+        "movie": "Paths of Glory",
+        "year": "1957",
+        "director": "Stanley Kubrick",
+        "duration": "88 mins"
+    },
+    {
+        "movie": "The Sweet Smell of Success",
+        "year": "1957",
+        "director": "Alexander Mackendrick",
+        "duration": "96 mins"
+    },
+    {
+        "movie": "A Man Escaped",
+        "year": "1956",
+        "director": "Robert Bresson",
+        "duration": "99 mins"
+    },
+    {
+        "movie": "The Killing",
+        "year": "1956",
+        "director": "Stanley Kubrick",
+        "duration": "85 mins"
+    },
+    {
+        "movie": "Written on the Wind",
+        "year": "1956",
+        "director": "Robert Wilder",
+        "duration": "99 mins"
+    },
+    {
+        "movie": "The Searchers",
+        "year": "1956",
+        "director": "John Ford",
+        "duration": "119 mins"
+    },
+    {
+        "movie": "Ordet",
+        "year": "1955",
+        "director": "Poul Schierbeck",
+        "duration": "126 mins"
+    },
+    {
+        "movie": "Bob le Flambeur",
+        "year": "1955",
+        "director": "Jean-Pierre Melville",
+        "duration": "98 mins"
+    },
+    {
+        "movie": "Rebel Without a Cause",
+        "year": "1955",
+        "director": "Nicholas Ray",
+        "duration": "111 mins"
+    },
+    {
+        "movie": "The Night of the Hunter",
+        "year": "1955",
+        "director": "Charles Laughton",
+        "duration": "93 mins"
+    },
+    {
+        "movie": "Smiles of a Summer Night",
+        "year": "1955",
+        "director": "Ingmar Bergman",
+        "duration": "108 mins"
+    },
+    {
+        "movie": "Beat the Devil",
+        "year": "1954",
+        "director": "John Huston",
+        "duration": "89 mins"
+    },
+    {
+        "movie": "Senso",
+        "year": "1954",
+        "director": "Luchino Visconti",
+        "duration": "118 mins"
+    },
+    {
+        "movie": "Sansho the Bailiff",
+        "year": "1954",
+        "director": "Ogai Mori",
+        "duration": "124 mins"
+    },
+    {
+        "movie": "Touchez Pas au Grisbi",
+        "year": "1954",
+        "director": "Jacques Becker",
+        "duration": "94 mins"
+    },
+    {
+        "movie": "French Cancan",
+        "year": "1954",
+        "director": "Jean Renoir",
+        "duration": "102 mins"
+    },
+    {
+        "movie": "The Seven Samurai",
+        "year": "1954",
+        "director": "Akira Kurosawa",
+        "duration": "207 mins"
+    },
+    {
+        "movie": "Rififi",
+        "year": "1954",
+        "director": "Jules Dassin",
+        "duration": "146 mins"
+    },
+    {
+        "movie": "Johnny Guitar",
+        "year": "1954",
+        "director": "Nicholas Ray",
+        "duration": "110 mins"
+    },
+    {
+        "movie": "On the Waterfront",
+        "year": "1954",
+        "director": "Elia Kazan",
+        "duration": "108 mins"
+    },
+    {
+        "movie": "Rear Window",
+        "year": "1954",
+        "director": "Robert Burks",
+        "duration": "114 mins"
+    },
+    {
+        "movie": "Mr. Hulot’s Holiday",
+        "year": "1953",
+        "director": "Jacques Tati",
+        "duration": "84 mins"
+    },
+    {
+        "movie": "The Band Wagon",
+        "year": "1953",
+        "director": "Vincente Minnelli",
+        "duration": "111 mins"
+    },
+    {
+        "movie": "The Big Heat",
+        "year": "1953",
+        "director": "Fritz Lang",
+        "duration": "89 mins"
+    },
+    {
+        "movie": "Tokyo Story",
+        "year": "1953",
+        "director": "Yushun Atsuta",
+        "duration": "136 mins"
+    },
+    {
+        "movie": "The Earrings of Madame de…",
+        "year": "1953",
+        "director": "Max Ophuls",
+        "duration": "105 mins"
+    },
+    {
+        "movie": "Ugetsu",
+        "year": "1953",
+        "director": "Kenji Mizoguchi",
+        "duration": "94 mins"
+    },
+    {
+        "movie": "Shane",
+        "year": "1953",
+        "director": "George Stevens",
+        "duration": "118 mins"
+    },
+    {
+        "movie": "Umberto D",
+        "year": "1952",
+        "director": "Vittorio De Sica",
+        "duration": "89 mins"
+    },
+    {
+        "movie": "The Life of Oharu",
+        "year": "1952",
+        "director": "Kenji Mizoguchi",
+        "duration": "148 mins"
+    },
+    {
+        "movie": "Ikiru",
+        "year": "1952",
+        "director": "Akira Kurosawa",
+        "duration": "143 mins"
+    },
+    {
+        "movie": "Forbidden Games",
+        "year": "1952",
+        "director": "René Clément",
+        "duration": "86 mins"
+    },
+    {
+        "movie": "Singin’ in the Rain",
+        "year": "1952",
+        "director": "Gene Kelly",
+        "duration": "103 mins"
+    },
+    {
+        "movie": "Diary of a Country Priest",
+        "year": "1951",
+        "director": "Robert Bresson",
+        "duration": "115 mins"
+    },
+    {
+        "movie": "Ace in the Hole",
+        "year": "1951",
+        "director": "Billy Wilder",
+        "duration": "111 mins"
+    },
+    {
+        "movie": "Strangers on a Train",
+        "year": "1951",
+        "director": "Alfred Hitchcock",
+        "duration": "101 mins"
+    },
+    {
+        "movie": "The River (Le Fleuve)",
+        "year": "1951",
+        "director": "Jean Renoir",
+        "duration": "99 mins"
+    },
+    {
+        "movie": "Sunset Boulevard",
+        "year": "1950",
+        "director": "Billy Wilder",
+        "duration": "110 mins"
+    },
+    {
+        "movie": "All About Eve",
+        "year": "1950",
+        "director": "Joseph L. Mankiewicz",
+        "duration": "138 mins"
+    },
+    {
+        "movie": "In a Lonely Place",
+        "year": "1950",
+        "director": "Nicholas Ray",
+        "duration": "94 mins"
+    },
+    {
+        "movie": "Rashomon",
+        "year": "1950",
+        "director": "Akira Kurosawa",
+        "duration": "88 mins"
+    },
+    {
+        "movie": "Kind Hearts and Coronets",
+        "year": "1949",
+        "director": "Robert Hamer",
+        "duration": "106 mins"
+    },
+    {
+        "movie": "The Bicycle Thief",
+        "year": "1949",
+        "director": "Vittorio De Sica",
+        "duration": "93 mins"
+    },
+    {
+        "movie": "Orpheus",
+        "year": "1949",
+        "director": "Jean Cocteau",
+        "duration": "112 mins"
+    },
+    {
+        "movie": "The Third Man",
+        "year": "1949",
+        "director": "Carol Reed",
+        "duration": "104 mins"
+    },
+    {
+        "movie": "Red River",
+        "year": "1948",
+        "director": "Howard Hawks",
+        "duration": "133 mins"
+    },
+    {
+        "movie": "The Treasure of the Sierra Madre",
+        "year": "1948",
+        "director": "John Huston",
+        "duration": "126 mins"
+    },
+    {
+        "movie": "The Red Shoes",
+        "year": "1948",
+        "director": "Michael Powell &amp; Emeric Pressburger",
+        "duration": "133 mins"
+    },
+    {
+        "movie": "Out of the Past",
+        "year": "1947",
+        "director": "Jacques Tourneur",
+        "duration": "97 mins"
+    },
+    {
+        "movie": "My Darling Clementine",
+        "year": "1946",
+        "director": "Engel",
+        "duration": "97 mins"
+    },
+    {
+        "movie": "Beauty and the Beast",
+        "year": "1946",
+        "director": "Jean Cocteau",
+        "duration": "96 mins"
+    },
+    {
+        "movie": "The Big Sleep",
+        "year": "1946",
+        "director": "Howard Hawks",
+        "duration": "116 mins"
+    },
+    {
+        "movie": "Great Expectations",
+        "year": "1946",
+        "director": "David Lean",
+        "duration": "118 mins"
+    },
+    {
+        "movie": "The Best Years of Our Lives",
+        "year": "1946",
+        "director": "William Wyler",
+        "duration": "172 mins"
+    },
+    {
+        "movie": "Notorious",
+        "year": "1946",
+        "director": "Alfred Hitchcock",
+        "duration": "102 mins"
+    },
+    {
+        "movie": "It’s a Wonderful Life",
+        "year": "1946",
+        "director": "Joseph Walker",
+        "duration": "130 mins"
+    },
+    {
+        "movie": "Children of Paradise",
+        "year": "1945",
+        "director": "Marcel Carné",
+        "duration": "190 mins"
+    },
+    {
+        "movie": "Detour",
+        "year": "1945",
+        "director": "George McGuire",
+        "duration": "67 mins"
+    },
+    {
+        "movie": "Double Indemnity",
+        "year": "1944",
+        "director": "Billy Wilder",
+        "duration": "107 mins"
+    },
+    {
+        "movie": "Laura",
+        "year": "1944",
+        "director": "Otto Preminger",
+        "duration": "88 mins"
+    },
+    {
+        "movie": "The Life and Death of Colonel Blimp",
+        "year": "1943",
+        "director": "Michael Powell &amp; Emeric Pressburger",
+        "duration": "163 mins"
+    },
+    {
+        "movie": "Shadow of a Doubt",
+        "year": "1943",
+        "director": "Thornton Wilder",
+        "duration": "108 mins"
+    },
+    {
+        "movie": "Yankee Doodle Dandy",
+        "year": "1942",
+        "director": "Heinz Roemheld",
+        "duration": "126 mins"
+    },
+    {
+        "movie": "Cat People",
+        "year": "1942",
+        "director": "DeWitt Bodeen",
+        "duration": "73 mins"
+    },
+    {
+        "movie": "Casablanca",
+        "year": "1942",
+        "director": "Michael Curtiz",
+        "duration": "102 mins"
+    },
+    {
+        "movie": "The Maltese Falcon",
+        "year": "1941",
+        "director": "John Huston",
+        "duration": "100 mins"
+    },
+    {
+        "movie": "Citizen Kane",
+        "year": "1941",
+        "director": "Herman J. Mankiewicz",
+        "duration": "119 mins"
+    },
+    {
+        "movie": "The Lady Eve",
+        "year": "1941",
+        "director": "Sigmund Krumgold",
+        "duration": "97 mins"
+    },
+    {
+        "movie": "Pinocchio",
+        "year": "1940",
+        "director": "Ben Sharpsteen &amp; Hamilton Luske",
+        "duration": "88 mins"
+    },
+    {
+        "movie": "The Bank Dick",
+        "year": "1940",
+        "director": "Edward F. Cline &amp; Ralph Ceder",
+        "duration": "72 mins"
+    },
+    {
+        "movie": "The Grapes of Wrath",
+        "year": "1940",
+        "director": "John Steinbeck",
+        "duration": "129 mins"
+    },
+    {
+        "movie": "The Thief of Bagdad",
+        "year": "1940",
+        "director": "Tim Whelan",
+        "duration": "106 mins"
+    },
+    {
+        "movie": "The Great Dictator",
+        "year": "1940",
+        "director": "Charles Chaplin",
+        "duration": "125 mins"
+    },
+    {
+        "movie": "The Wizard of Oz",
+        "year": "1939",
+        "director": "Noel Langley",
+        "duration": "101 mins"
+    },
+    {
+        "movie": "The Rules of the Game",
+        "year": "1939",
+        "director": "Jean Renoir",
+        "duration": "110 mins"
+    },
+    {
+        "movie": "Gone With the Wind",
+        "year": "1939",
+        "director": "Victor Fleming",
+        "duration": "238 mins"
+    },
+    {
+        "movie": "Stagecoach",
+        "year": "1939",
+        "director": "John Ford",
+        "duration": "96 mins"
+    },
+    {
+        "movie": "The Adventures of Robin Hood",
+        "year": "1938",
+        "director": "Michael Curtiz &amp; William Keighley",
+        "duration": "102 mins"
+    },
+    {
+        "movie": "Snow White and the Seven Dwarfs",
+        "year": "1937",
+        "director": "William Cottrell",
+        "duration": "83 mins"
+    },
+    {
+        "movie": "Make Way for Tomorrow",
+        "year": "1937",
+        "director": "Leo McCarey",
+        "duration": "91 mins"
+    },
+    {
+        "movie": "Grand Illusion",
+        "year": "1937",
+        "director": "Jean Renoir",
+        "duration": "114 mins"
+    },
+    {
+        "movie": "The Only Son",
+        "year": "1936",
+        "director": "Yasujirō Ozu",
+        "duration": "87 mins"
+    },
+    {
+        "movie": "Swing Time",
+        "year": "1936",
+        "director": "George Stevens",
+        "duration": "103 mins"
+    },
+    {
+        "movie": "My Man Godfrey",
+        "year": "1936",
+        "director": "Morrie Ryskind",
+        "duration": "94 mins"
+    },
+    {
+        "movie": "Bride of Frankenstein",
+        "year": "1935",
+        "director": "James Whale",
+        "duration": "75 mins"
+    },
+    {
+        "movie": "Top Hat",
+        "year": "1935",
+        "director": "Mark Sandrich",
+        "duration": "101 mins"
+    },
+    {
+        "movie": "Triumph of the Will",
+        "year": "1935",
+        "director": "Walter Ruttman",
+        "duration": "114 mins"
+    },
+    {
+        "movie": "L’Atalante",
+        "year": "1934",
+        "director": "Jean Vigo",
+        "duration": "89 mins"
+    },
+    {
+        "movie": "The Scarlet Empress",
+        "year": "1934",
+        "director": "Josef von Sternberg",
+        "duration": "104 mins"
+    },
+    {
+        "movie": "The Thin Man",
+        "year": "1934",
+        "director": "W. S. Van Dyke",
+        "duration": "93 mins"
+    },
+    {
+        "movie": "Duck Soup",
+        "year": "1933",
+        "director": "Leo McCarey",
+        "duration": "68 mins"
+    },
+    {
+        "movie": "King Kong",
+        "year": "1933",
+        "director": "Merian C. Cooper &amp; Ernest B. Schoedsack",
+        "duration": "100 mins"
+    },
+    {
+        "movie": "Trouble in Paradise",
+        "year": "1932",
+        "director": "Victor Milner",
+        "duration": "83 mins"
+    },
+    {
+        "movie": "City Lights",
+        "year": "1931",
+        "director": "Charles Chaplin",
+        "duration": "87 mins"
+    },
+    {
+        "movie": "Dracula",
+        "year": "1931",
+        "director": "Bram Stoker",
+        "duration": "72 mins"
+    },
+    {
+        "movie": "M",
+        "year": "1931",
+        "director": "Fritz Lang",
+        "duration": "117 mins"
+    },
+    {
+        "movie": "Diary of a Lost Girl",
+        "year": "1929",
+        "director": "G. W. Pabst",
+        "duration": "104 mins"
+    },
+    {
+        "movie": "Man With a Movie Camera",
+        "year": "1929",
+        "director": "Dziga Vertov",
+        "duration": "73 mins"
+    },
+    {
+        "movie": "The Fall of the House of Usher",
+        "year": "1928",
+        "director": "James Sibley Watson &amp; Melville Webber",
+        "duration": "66 mins"
+    },
+    {
+        "movie": "Sunrise",
+        "year": "1928",
+        "director": "F.W. Murnau",
+        "duration": "95 mins"
+    },
+    {
+        "movie": "The Passion of Joan of Arc",
+        "year": "1928",
+        "director": "Carl Theodor Dreyer",
+        "duration": "114 mins"
+    },
+    {
+        "movie": "Pandora’s Box",
+        "year": "1928",
+        "director": "G. W. Pabst",
+        "duration": "133 mins"
+    },
+    {
+        "movie": "Un Chien Andalou",
+        "year": "1928",
+        "director": "Luis Buñuel",
+        "duration": "16 mins"
+    },
+    {
+        "movie": "The Man Who Laughs",
+        "year": "1928",
+        "director": "Paul Leni",
+        "duration": "110 mins"
+    },
+    {
+        "movie": "The Circus",
+        "year": "1928",
+        "director": "Charlie Chaplin",
+        "duration": "71 mins"
+    },
+    {
+        "movie": "The General",
+        "year": "1927",
+        "director": "Buster Keaton",
+        "duration": "107 mins"
+    },
+    {
+        "movie": "Metropolis",
+        "year": "1927",
+        "director": "Fritz Lang",
+        "duration": "153 mins"
+    },
+    {
+        "movie": "Faust",
+        "year": "1926",
+        "director": "F. W. Murnau",
+        "duration": "85 mins"
+    },
+    {
+        "movie": "The Battleship Potemkin",
+        "year": "1925",
+        "director": "Sergei Eisenstein",
+        "duration": "75 mins"
+    },
+    {
+        "movie": "The Phantom of the Opera",
+        "year": "1925",
+        "director": "Rupert Julian",
+        "duration": "93 mins"
+    },
+    {
+        "movie": "The Last Laugh",
+        "year": "1924",
+        "director": "Greg Pritikin",
+        "duration": "77 mins"
+    },
+    {
+        "movie": "Greed",
+        "year": "1924",
+        "director": "Erich von Stroheim",
+        "duration": "140 mins"
+    },
+    {
+        "movie": "Safety Last",
+        "year": "1923",
+        "director": "Fred C. Newmeyer &amp; Sam Taylor",
+        "duration": "70 mins"
+    },
+    {
+        "movie": "Souls For Sale",
+        "year": "1923",
+        "director": "Rupert Hughes",
+        "duration": "90 mins"
+    },
+    {
+        "movie": "Nanook of the North",
+        "year": "1922",
+        "director": "Robert J. Flaherty",
+        "duration": "79 mins"
+    },
+    {
+        "movie": "Nosferatu",
+        "year": "1922",
+        "director": "F.W. Murnau",
+        "duration": "82 mins"
+    },
+    {
+        "movie": "The Cabinet of Dr. Caligari",
+        "year": "1920",
+        "director": "Hans Janowitz",
+        "duration": "71 mins"
+    },
+    {
+        "movie": "Broken Blossoms",
+        "year": "1919",
+        "director": "D. W. Griffith",
+        "duration": "90 mins"
+    },
+    {
+        "movie": "The Birth of a Nation",
+        "year": "1915",
+        "director": "D. W. Griffith",
+        "duration": "190 mins"
+    },
+    {
+        "movie": "Cabiria",
+        "year": "1914",
+        "director": "Pastrone",
+        "duration": "148 mins"
+    }
+]
