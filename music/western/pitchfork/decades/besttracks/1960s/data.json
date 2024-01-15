@@ -1,0 +1,1402 @@
+﻿[
+    {
+        "ranking": "1",
+        "track": "God Only Knows",
+        "label": "Capitol Records",
+        "year": "1966",
+        "artist": "The Beach Boys"
+    },
+    {
+        "ranking": "2",
+        "track": "I Want You Back",
+        "label": "Motown Records",
+        "year": "1969",
+        "artist": "The Jackson 5"
+    },
+    {
+        "ranking": "3",
+        "track": "A Change Is Gonna Come",
+        "label": "RCA Records",
+        "year": "1964",
+        "artist": "Sam Cooke"
+    },
+    {
+        "ranking": "4",
+        "track": "Like a Rolling Stone",
+        "label": "Columbia Records",
+        "year": "1965",
+        "artist": "Bob Dylan"
+    },
+    {
+        "ranking": "5",
+        "track": "A Day in the Life",
+        "label": "Parlophone and Capitol",
+        "year": "1967",
+        "artist": "The Beatles"
+    },
+    {
+        "ranking": "6",
+        "track": "Be My Baby",
+        "label": "London and Philles",
+        "year": "1963",
+        "artist": "The Ronettes"
+    },
+    {
+        "ranking": "7",
+        "track": "Wouldn’t It Be Nice",
+        "label": "Capitol Records",
+        "year": "1966",
+        "artist": "The Beach Boys"
+    },
+    {
+        "ranking": "8",
+        "track": "Folsom Prison Blues (Live at Folsom Prison)",
+        "label": "Columbia Records",
+        "year": "1968",
+        "artist": "Johnny Cash"
+    },
+    {
+        "ranking": "9",
+        "track": "I Can’t Explain",
+        "label": "Decca and Brunswick",
+        "year": "1965",
+        "artist": "The Who"
+    },
+    {
+        "ranking": "10",
+        "track": "Israelites",
+        "label": "UNI Records",
+        "year": "1969",
+        "artist": "Desmond Dekker & the Aces"
+    },
+    {
+        "ranking": "11",
+        "track": "Dazed and Confused",
+        "label": "Atlantic Records",
+        "year": "1969",
+        "artist": "Led Zeppelin"
+    },
+    {
+        "ranking": "12",
+        "track": "Gimme Shelter",
+        "label": "Decca and London",
+        "year": "1969",
+        "artist": "The Rolling Stones"
+    },
+    {
+        "ranking": "13",
+        "track": "The Weight",
+        "label": "Capitol Records",
+        "year": "1968",
+        "artist": "The Band"
+    },
+    {
+        "ranking": "14",
+        "track": "Don’t Worry Baby",
+        "label": "Capitol Records",
+        "year": "1964",
+        "artist": "The Beach Boys"
+    },
+    {
+        "ranking": "15",
+        "track": "Think",
+        "label": "Atlantic Records",
+        "year": "1968",
+        "artist": "Aretha Franklin"
+    },
+    {
+        "ranking": "16",
+        "track": "I Wanna Be Your Dog",
+        "label": "Elektra Records",
+        "year": "1969",
+        "artist": "The Stooges"
+    },
+    {
+        "ranking": "17",
+        "track": "Fortunate Son",
+        "label": "Fantasy Records",
+        "year": "1969",
+        "artist": "Creedence Clearwater Revival"
+    },
+    {
+        "ranking": "18",
+        "track": "Then He Kissed Me",
+        "label": "London Recordings",
+        "year": "1963",
+        "artist": "The Crystals"
+    },
+    {
+        "ranking": "19",
+        "track": "Tomorrow Never Knows",
+        "label": "Parlophone Records",
+        "year": "1966",
+        "artist": "The Beatles"
+    },
+    {
+        "ranking": "20",
+        "track": "Out in the Streets",
+        "label": "Red Bird Records",
+        "year": "1965",
+        "artist": "The Shangri-Las"
+    },
+    {
+        "ranking": "21",
+        "track": "Good Vibrations",
+        "label": "Capitol Records",
+        "year": "1966",
+        "artist": "The Beach Boys"
+    },
+    {
+        "ranking": "22",
+        "track": "I Heard It Through the Grapevine",
+        "label": "Tamla Motown Records",
+        "year": "1968",
+        "artist": "Marvin Gaye"
+    },
+    {
+        "ranking": "23",
+        "track": "At Last",
+        "label": "Argo Records",
+        "year": "1961",
+        "artist": "Etta James"
+    },
+    {
+        "ranking": "24",
+        "track": "You Can’t Hurry Love",
+        "label": "Motown Records",
+        "year": "1966",
+        "artist": "The Supremes"
+    },
+    {
+        "ranking": "25",
+        "track": "Paint It Black",
+        "label": "Decca and London",
+        "year": "1966",
+        "artist": "The Rolling Stones"
+    },
+    {
+        "ranking": "26",
+        "track": "I Am the Walrus",
+        "label": "Capitol Records",
+        "year": "1967",
+        "artist": "The Beatles"
+    },
+    {
+        "ranking": "27",
+        "track": "I’m Waiting for the Man",
+        "label": "Verve Records",
+        "year": "1967",
+        "artist": "The Velvet Underground"
+    },
+    {
+        "ranking": "28",
+        "track": "(Sittin’ on) The Dock of the Bay",
+        "label": "Volt Records",
+        "year": "1968",
+        "artist": "Otis Redding"
+    },
+    {
+        "ranking": "29",
+        "track": "Waterloo Sunset",
+        "label": "Pye Records",
+        "year": "1967",
+        "artist": "The Kinks"
+    },
+    {
+        "ranking": "30",
+        "track": "Leader of the Pack",
+        "label": "Red Bird Records",
+        "year": "1964",
+        "artist": "The Shangri-Las"
+    },
+    {
+        "ranking": "31",
+        "track": "These Days",
+        "label": "Verve Records",
+        "year": "1967",
+        "artist": "Nico"
+    },
+    {
+        "ranking": "32",
+        "track": "The Good, the Bad, and the Ugly (Main Theme)",
+        "label": "Parade Records",
+        "year": "1966",
+        "artist": "Ennio Morricone"
+    },
+    {
+        "ranking": "33",
+        "track": "It’s a Man’s Man’s Man’s World",
+        "label": "King Records",
+        "year": "1966",
+        "artist": "James Brown & the Famous Flames"
+    },
+    {
+        "ranking": "34",
+        "track": "The Kids Are Alright",
+        "label": "Brunswick and Decca",
+        "year": "1965",
+        "artist": "The Who"
+    },
+    {
+        "ranking": "35",
+        "track": "Ring of Fire",
+        "label": "Columbia Records",
+        "year": "1963",
+        "artist": "Johnny Cash"
+    },
+    {
+        "ranking": "36",
+        "track": "You’re Gonna Miss Me",
+        "label": "Contact and International Artists",
+        "year": "1966",
+        "artist": "13th Floor Elevators"
+    },
+    {
+        "ranking": "37",
+        "track": "The Sound of Silence",
+        "label": "Columbia Records",
+        "year": "1965",
+        "artist": "Simon & Garfunkel"
+    },
+    {
+        "ranking": "38",
+        "track": "Cissy Strut",
+        "label": "Josie Records",
+        "year": "1969",
+        "artist": "The Meters"
+    },
+    {
+        "ranking": "39",
+        "track": "Sympathy for the Devil",
+        "label": "Decca Records",
+        "year": "1968",
+        "artist": "The Rolling Stones"
+    },
+    {
+        "ranking": "40",
+        "track": "This Will Be Our Year",
+        "label": "Date Records",
+        "year": "1968",
+        "artist": "The Zombies"
+    },
+    {
+        "ranking": "41",
+        "track": "Suzanne",
+        "label": "Columbia Records",
+        "year": "1968",
+        "artist": "Leonard Cohen"
+    },
+    {
+        "ranking": "42",
+        "track": "The Night They Drove Old Dixie Down",
+        "label": "Capitol Records",
+        "year": "1969",
+        "artist": "The Band"
+    },
+    {
+        "ranking": "43",
+        "track": "Linus and Lucy",
+        "label": "Fantasy Records",
+        "year": "1965",
+        "artist": "Vince Guaraldi Trio"
+    },
+    {
+        "ranking": "44",
+        "track": "Where Did Our Love Go",
+        "label": "Motown Records",
+        "year": "1964",
+        "artist": "The Supremes"
+    },
+    {
+        "ranking": "45",
+        "track": "Son of a Preacher Man",
+        "label": "Atlantic Records",
+        "year": "1968",
+        "artist": "Dusty Springfield"
+    },
+    {
+        "ranking": "46",
+        "track": "Making Time",
+        "label": "Hit-Ton Records",
+        "year": "1967",
+        "artist": "The Creation"
+    },
+    {
+        "ranking": "47",
+        "track": "EleaRigby",
+        "label": "Parlophone and Capitol",
+        "year": "1966",
+        "artist": "The Beatles"
+    },
+    {
+        "ranking": "48",
+        "track": "Space Oddity",
+        "label": "RCA Records",
+        "year": "1969",
+        "artist": "David Bowie"
+    },
+    {
+        "ranking": "49",
+        "track": "Some Velvet Morning",
+        "label": "Reprise Records",
+        "year": "1968",
+        "artist": "Lee Hazlewood & Nancy Sinatra"
+    },
+    {
+        "ranking": "50",
+        "track": "Alone Again Or",
+        "label": "Elektra Records",
+        "year": "1967",
+        "artist": "Love"
+    },
+    {
+        "ranking": "51",
+        "track": "River Deep – Mountain High",
+        "label": "A&amp;M Records",
+        "year": "1966",
+        "artist": "Ike & Tina Turner"
+    },
+    {
+        "ranking": "52",
+        "track": "Georgia on My Mind",
+        "label": "ABC Records",
+        "year": "1960",
+        "artist": "Ray Charles"
+    },
+    {
+        "ranking": "53",
+        "track": "Whole Lotta Love",
+        "label": "Atlantic Records",
+        "year": "1969",
+        "artist": "Led Zeppelin"
+    },
+    {
+        "ranking": "54",
+        "track": "Daydream Believer",
+        "label": "Colgems Records",
+        "year": "1967",
+        "artist": "The Monkees"
+    },
+    {
+        "ranking": "55",
+        "track": "(Your Love Keeps Lifting Me) Higher and Higher",
+        "label": "Brunswick Records",
+        "year": "1967",
+        "artist": "Jackie Wilson"
+    },
+    {
+        "ranking": "56",
+        "track": "Bonnie and Clyde",
+        "label": "Mercury and Fontana",
+        "year": "1968",
+        "artist": "Serge Gainsbourg and Brigitte Bardot"
+    },
+    {
+        "ranking": "57",
+        "track": "Crimson and Clover",
+        "label": "Roulette Records",
+        "year": "1969",
+        "artist": "Tommy James & the Shondells"
+    },
+    {
+        "ranking": "58",
+        "track": "I Want to Hold Your Hand",
+        "label": "Parlophone and Capitol",
+        "year": "1964",
+        "artist": "The Beatles"
+    },
+    {
+        "ranking": "59",
+        "track": "Sunday Morning",
+        "label": "Verve Records",
+        "year": "1967",
+        "artist": "The Velvet Underground"
+    },
+    {
+        "ranking": "60",
+        "track": "Hot Fun in the Summertime",
+        "label": "Epic Records",
+        "year": "1969",
+        "artist": "Sly & the Family Stone"
+    },
+    {
+        "ranking": "61",
+        "track": "You Keep Me Hangin’ On",
+        "label": "Motown Records",
+        "year": "1966",
+        "artist": "The Supremes"
+    },
+    {
+        "ranking": "62",
+        "track": "Street Fighting Man",
+        "label": "Decca and London",
+        "year": "1968",
+        "artist": "The Rolling Stones"
+    },
+    {
+        "ranking": "63",
+        "track": "The Girl From Ipanema [ft. Antônio Carlos Jobim]",
+        "label": "Verve Records",
+        "year": "1964",
+        "artist": "Stan Getz & João Gilberto"
+    },
+    {
+        "ranking": "64",
+        "track": "Runaway",
+        "label": "Big Top Records",
+        "year": "1961",
+        "artist": "Del Shannon"
+    },
+    {
+        "ranking": "65",
+        "track": "California Dreamin’",
+        "label": "Dunhill Records",
+        "year": "1966",
+        "artist": "The Mamas & the Papas"
+    },
+    {
+        "ranking": "66",
+        "track": "The Tide Is High",
+        "label": "Treasure Isle Records",
+        "year": "1967",
+        "artist": "The Paragons"
+    },
+    {
+        "ranking": "67",
+        "track": "Cinnamon Girl",
+        "label": "Reprise Records",
+        "year": "1969",
+        "artist": "Neil Young & Crazy Horse"
+    },
+    {
+        "ranking": "68",
+        "track": "Will You Still Love Me Tomorrow",
+        "label": "Scepter Records",
+        "year": "1960",
+        "artist": "The Shirelles"
+    },
+    {
+        "ranking": "69",
+        "track": "Misirlou",
+        "label": "Deltone Records",
+        "year": "1962",
+        "artist": "Dick Dale & the Del-Tones"
+    },
+    {
+        "ranking": "70",
+        "track": "Crazy",
+        "label": "Decca Records",
+        "year": "1961",
+        "artist": "Patsy Cline"
+    },
+    {
+        "ranking": "71",
+        "track": "Manic Depression",
+        "label": "Polydor Records",
+        "year": "1967",
+        "artist": "Jimi Hendrix"
+    },
+    {
+        "ranking": "72",
+        "track": "Sweet Thing",
+        "label": "Warner Bros.",
+        "year": "1968",
+        "artist": "Van Morrison"
+    },
+    {
+        "ranking": "73",
+        "track": "Don’t Think Twice, It’s All Right",
+        "label": "Columbia Records",
+        "year": "1963",
+        "artist": "Bob Dylan"
+    },
+    {
+        "ranking": "74",
+        "track": "Papa’s Got a Brand New Bag",
+        "label": "King Records",
+        "year": "1965",
+        "artist": "James Brown & the Famous Flames"
+    },
+    {
+        "ranking": "75",
+        "track": "The Boxer",
+        "label": "Columbia Records",
+        "year": "1969",
+        "artist": "Simon & Garfunkel"
+    },
+    {
+        "ranking": "76",
+        "track": "Doctor Who (Original Theme)",
+        "label": "Decca Records",
+        "year": "1963",
+        "artist": "BBC Radiophonic Workshop"
+    },
+    {
+        "ranking": "77",
+        "track": "Heroin",
+        "label": "Verve Records",
+        "year": "1967",
+        "artist": "The Velvet Underground"
+    },
+    {
+        "ranking": "78",
+        "track": "I Want to Take You Higher",
+        "label": "Epic Records",
+        "year": "1969",
+        "artist": "Sly & the Family Stone"
+    },
+    {
+        "ranking": "79",
+        "track": "Baby",
+        "label": "Philips Records",
+        "year": "1969",
+        "artist": "Gal Costa"
+    },
+    {
+        "ranking": "80",
+        "track": "Subterranean Homesick Blues",
+        "label": "Columbia Records",
+        "year": "1965",
+        "artist": "Bob Dylan"
+    },
+    {
+        "ranking": "81",
+        "track": "Hold On, I’m Comin’",
+        "label": "Stax Records",
+        "year": "1966",
+        "artist": "Sam & Dave"
+    },
+    {
+        "ranking": "82",
+        "track": "Suspicious Minds",
+        "label": "RCA Records",
+        "year": "1969",
+        "artist": "Elvis Presley"
+    },
+    {
+        "ranking": "83",
+        "track": "Down by the River",
+        "label": "Reprise Records",
+        "year": "1969",
+        "artist": "Neil Young & Crazy Horse"
+    },
+    {
+        "ranking": "84",
+        "track": "You Can’t Always Get What You Want",
+        "label": "Decca Records",
+        "year": "1969",
+        "artist": "The Rolling Stones"
+    },
+    {
+        "ranking": "85",
+        "track": "Crying",
+        "label": "Monument Records",
+        "year": "1962",
+        "artist": "Roy Orbison"
+    },
+    {
+        "ranking": "86",
+        "track": "Walk Away Renée",
+        "label": "Smash Records",
+        "year": "1967",
+        "artist": "The Left Banke"
+    },
+    {
+        "ranking": "87",
+        "track": "The Tracks of My Tears",
+        "label": "Tamla Motown Records",
+        "year": "1965",
+        "artist": "The Miracles"
+    },
+    {
+        "ranking": "88",
+        "track": "You Really Got Me",
+        "label": "Pye Records",
+        "year": "1964",
+        "artist": "The Kinks"
+    },
+    {
+        "ranking": "89",
+        "track": "1969",
+        "label": "Elektra Records",
+        "year": "1969",
+        "artist": "The Stooges"
+    },
+    {
+        "ranking": "90",
+        "track": "My Boyfriend’s Back",
+        "label": "Smash Records",
+        "year": "1963",
+        "artist": "The Angels"
+    },
+    {
+        "ranking": "91",
+        "track": "Substitute",
+        "label": "Reaction Records",
+        "year": "1966",
+        "artist": "The Who"
+    },
+    {
+        "ranking": "92",
+        "track": "River Man",
+        "label": "Island Records",
+        "year": "1969",
+        "artist": "Nick Drake"
+    },
+    {
+        "ranking": "93",
+        "track": "Yoo Doo Right",
+        "label": "Mute Records",
+        "year": "1969",
+        "artist": "Can"
+    },
+    {
+        "ranking": "94",
+        "track": "Mrs. Robinson",
+        "label": "Columbia Records",
+        "year": "1968",
+        "artist": "Simon & Garfunkel"
+    },
+    {
+        "ranking": "95",
+        "track": "Cupid",
+        "label": "RCA Records",
+        "year": "1961",
+        "artist": "Sam Cooke"
+    },
+    {
+        "ranking": "96",
+        "track": "Give Him a Great Big Kiss",
+        "label": "Red Bird Records",
+        "year": "1965",
+        "artist": "The Shangri-Las"
+    },
+    {
+        "ranking": "97",
+        "track": "Pressure Drop",
+        "label": "Beverley’s and Trojan",
+        "year": "1969",
+        "artist": "The Maytals"
+    },
+    {
+        "ranking": "98",
+        "track": "Care of Cell 44",
+        "label": "Columbia Records",
+        "year": "1968",
+        "artist": "The Zombies"
+    },
+    {
+        "ranking": "99",
+        "track": "All Along the Watchtower",
+        "label": "Polydor Records",
+        "year": "1968",
+        "artist": "Jimi Hendrix"
+    },
+    {
+        "ranking": "100",
+        "track": "It’s Your Thing",
+        "label": "T-Neck Records",
+        "year": "1969",
+        "artist": "The Isley Brothers"
+    },
+    {
+        "ranking": "101",
+        "track": "See Emily Play",
+        "label": "Columbia Records",
+        "year": "1967",
+        "artist": "Pink Floyd"
+    },
+    {
+        "ranking": "102",
+        "track": "Everyday People",
+        "label": "Epic Records",
+        "year": "1968",
+        "artist": "Sly & the Family Stone"
+    },
+    {
+        "ranking": "103",
+        "track": "Mama Tried",
+        "label": "Capitol Records",
+        "year": "1968",
+        "artist": "Merle Haggard"
+    },
+    {
+        "ranking": "104",
+        "track": "21st Century Schizoid Man",
+        "label": "Atlantic Records",
+        "year": "1969",
+        "artist": "King Crimson"
+    },
+    {
+        "ranking": "105",
+        "track": "America",
+        "label": "Columbia Records",
+        "year": "1968",
+        "artist": "Simon & Garfunkel"
+    },
+    {
+        "ranking": "106",
+        "track": "007 (Shanty Town)",
+        "label": "Trojan Records and Spectrum Music",
+        "year": "1967",
+        "artist": "Desmond Dekker & the Aces"
+    },
+    {
+        "ranking": "107",
+        "track": "Visions of Johanna",
+        "label": "Columbia Records",
+        "year": "1966",
+        "artist": "Bob Dylan"
+    },
+    {
+        "ranking": "108",
+        "track": "One",
+        "label": "RCA Records",
+        "year": "1968",
+        "artist": "Harry Nilsson"
+    },
+    {
+        "ranking": "109",
+        "track": "Eight Miles High",
+        "label": "Columbia Records",
+        "year": "1966",
+        "artist": "The Byrds"
+    },
+    {
+        "ranking": "110",
+        "track": "It’s the Same Old Song",
+        "label": "Motown Records",
+        "year": "1965",
+        "artist": "The Four Tops"
+    },
+    {
+        "ranking": "111",
+        "track": "I Was Made to Love Her",
+        "label": "Tamla Motown Records",
+        "year": "1968",
+        "artist": "Stevie Wonder"
+    },
+    {
+        "ranking": "112",
+        "track": "It’s Gonna Rain",
+        "label": "“Unknown”",
+        "year": "1965",
+        "artist": "Steve Reich"
+    },
+    {
+        "ranking": "113",
+        "track": "Friday on My Mind",
+        "label": "United Artists Records",
+        "year": "1965",
+        "artist": "The Easybeats"
+    },
+    {
+        "ranking": "114",
+        "track": "These Boots Are Made for Walkin’",
+        "label": "Reprise Records",
+        "year": "1966",
+        "artist": "Nancy Sinatra"
+    },
+    {
+        "ranking": "115",
+        "track": "Victoria",
+        "label": "Reprise Records",
+        "year": "1969",
+        "artist": "The Kinks"
+    },
+    {
+        "ranking": "116",
+        "track": "White Rabbit",
+        "label": "RCA Records&nbsp;",
+        "year": "1967",
+        "artist": "Jefferson Airplane"
+    },
+    {
+        "ranking": "117",
+        "track": "Stand By Me",
+        "label": "ATCO Records",
+        "year": "1961",
+        "artist": "Ben E. King"
+    },
+    {
+        "ranking": "118",
+        "track": "I Fought the Law",
+        "label": "Mustang Records",
+        "year": "1966",
+        "artist": "The Bobby Fuller Four"
+    },
+    {
+        "ranking": "119",
+        "track": "Oscillations",
+        "label": "Kapp Records",
+        "year": "1968",
+        "artist": "Silver Apples"
+    },
+    {
+        "ranking": "120",
+        "track": "96 Tears",
+        "label": "Cameo Parkway Records",
+        "year": "1966",
+        "artist": "? and the Mysterians"
+    },
+    {
+        "ranking": "121",
+        "track": "Wichita Lineman",
+        "label": "Capitol Records",
+        "year": "1968",
+        "artist": "Glen Campbell"
+    },
+    {
+        "ranking": "122",
+        "track": "I Fall to Pieces",
+        "label": "Decca Records",
+        "year": "1961",
+        "artist": "Patsy Cline"
+    },
+    {
+        "ranking": "123",
+        "track": "I Hear a Symphony",
+        "label": "Motown Records",
+        "year": "1965",
+        "artist": "The Supremes"
+    },
+    {
+        "ranking": "124",
+        "track": "Venus in Furs",
+        "label": "Verve Records",
+        "year": "1967",
+        "artist": "The Velvet Underground"
+    },
+    {
+        "ranking": "125",
+        "track": "Shhh and Peaceful",
+        "label": "Columbia Records",
+        "year": "1969",
+        "artist": "Miles Davis"
+    },
+    {
+        "ranking": "126",
+        "track": "What Is and What Should Never Be",
+        "label": "Atlantic Records",
+        "year": "1969",
+        "artist": "Led Zeppelin"
+    },
+    {
+        "ranking": "127",
+        "track": "She Thinks I Still Care",
+        "label": "United Artists Records",
+        "year": "1962",
+        "artist": "George Jones"
+    },
+    {
+        "ranking": "128",
+        "track": "For What It’s Worth",
+        "label": "ATCO Records",
+        "year": "1967",
+        "artist": "Buffalo Springfield"
+    },
+    {
+        "ranking": "129",
+        "track": "Everybody’s Talkin’",
+        "label": "RCA Records",
+        "year": "1968",
+        "artist": "Harry Nilsson"
+    },
+    {
+        "ranking": "130",
+        "track": "My Favorite Things",
+        "label": "Atlantic Records",
+        "year": "1960",
+        "artist": "John Coltrane"
+    },
+    {
+        "ranking": "131",
+        "track": "I’ll Feel a Whole Lot Better",
+        "label": "Columbia Records",
+        "year": "1965",
+        "artist": "The Byrds"
+    },
+    {
+        "ranking": "132",
+        "track": "What a Wonderful World",
+        "label": "ABC Records",
+        "year": "1968",
+        "artist": "Louis Armstrong"
+    },
+    {
+        "ranking": "133",
+        "track": "I’m a Believer",
+        "label": "Colgems Records",
+        "year": "1966",
+        "artist": "The Monkees"
+    },
+    {
+        "ranking": "134",
+        "track": "Surf’s Up (solo piano version)",
+        "label": "Capitol Records",
+        "year": "1966",
+        "artist": "Brian Wilson"
+    },
+    {
+        "ranking": "135",
+        "track": "Shangri-La",
+        "label": "Reprise Records",
+        "year": "1969",
+        "artist": "The Kinks"
+    },
+    {
+        "ranking": "136",
+        "track": "Voodoo Child (Slight Return)",
+        "label": "Reprise Records",
+        "year": "1968",
+        "artist": "Jimi Hendrix"
+    },
+    {
+        "ranking": "137",
+        "track": "Iko Iko",
+        "label": "Red Bird Records",
+        "year": "1965",
+        "artist": "The Dixie Cups"
+    },
+    {
+        "ranking": "138",
+        "track": "Unchained Melody",
+        "label": "Verve Records",
+        "year": "1968",
+        "artist": "The Righteous Brothers"
+    },
+    {
+        "ranking": "139",
+        "track": "People Get Ready",
+        "label": "ABC-Paramount",
+        "year": "1965",
+        "artist": "The Impressions"
+    },
+    {
+        "ranking": "140",
+        "track": "Season of the Witch",
+        "label": "Epic Records",
+        "year": "1966",
+        "artist": "Donovan"
+    },
+    {
+        "ranking": "141",
+        "track": "Baby Love",
+        "label": "Motown Records",
+        "year": "1964",
+        "artist": "The Supremes"
+    },
+    {
+        "ranking": "142",
+        "track": "A Whiter Shade of Pale",
+        "label": "Deram Records",
+        "year": "1967",
+        "artist": "Procol Harum"
+    },
+    {
+        "ranking": "143",
+        "track": "Big Louise",
+        "label": "Smash Records",
+        "year": "1969",
+        "artist": "Scott Walker"
+    },
+    {
+        "ranking": "144",
+        "track": "Ode to Billie Joe",
+        "label": "Capitol Records",
+        "year": "1967",
+        "artist": "Bobbie Gentry"
+    },
+    {
+        "ranking": "145",
+        "track": "Stand by Your Man",
+        "label": "Epic Records",
+        "year": "1968",
+        "artist": "Tammy Wynette"
+    },
+    {
+        "ranking": "146",
+        "track": "In C",
+        "label": "Columbia Masterworks Records",
+        "year": "1968",
+        "artist": "Terry Riley"
+    },
+    {
+        "ranking": "147",
+        "track": "Sinnerman",
+        "label": "Philips Records",
+        "year": "1964",
+        "artist": "Nina Simone"
+    },
+    {
+        "ranking": "148",
+        "track": "Sister Ray",
+        "label": "Verve Records",
+        "year": "1967",
+        "artist": "The Velvet Underground"
+    },
+    {
+        "ranking": "149",
+        "track": "Tighten Up",
+        "label": "Atlantic Records",
+        "year": "1968",
+        "artist": "Archie Bell & the Drells"
+    },
+    {
+        "ranking": "150",
+        "track": "It’s Alright, Ma (I’m Only Bleeding)",
+        "label": "Columbia Records",
+        "year": "1965",
+        "artist": "Bob Dylan"
+    },
+    {
+        "ranking": "151",
+        "track": "The Human Abstract",
+        "label": "Capitol Records",
+        "year": "1969",
+        "artist": "David Axelrod"
+    },
+    {
+        "ranking": "152",
+        "track": "Never My Love",
+        "label": "Warner Bros",
+        "year": "1967",
+        "artist": "The Association"
+    },
+    {
+        "ranking": "153",
+        "track": "Stay With Me",
+        "label": "Warner Bros and Seven Arts",
+        "year": "1969",
+        "artist": "Lorraine Ellison"
+    },
+    {
+        "ranking": "154",
+        "track": "Louie Louie",
+        "label": "Flip Records",
+        "year": "1963",
+        "artist": "The Kingsmen"
+    },
+    {
+        "ranking": "155",
+        "track": "Bad Moon Rising",
+        "label": "Fantasy Records",
+        "year": "1969",
+        "artist": "Creedence Clearwater Revival"
+    },
+    {
+        "ranking": "156",
+        "track": "Fist City",
+        "label": "Decca Records",
+        "year": "1968",
+        "artist": "Loretta Lynn"
+    },
+    {
+        "ranking": "157",
+        "track": "Do Right Woman, Do Right Man",
+        "label": "Atlantic Records",
+        "year": "1967",
+        "artist": "Aretha Franklin"
+    },
+    {
+        "ranking": "158",
+        "track": "The First Cut Is the Deepest",
+        "label": "Immediate Records",
+        "year": "1967",
+        "artist": "P.P. Arnold"
+    },
+    {
+        "ranking": "159",
+        "track": "Astronomy Domine",
+        "label": "Tower Records",
+        "year": "1967",
+        "artist": "Pink Floyd"
+    },
+    {
+        "ranking": "160",
+        "track": "A Minha Menina",
+        "label": "Polydor Records",
+        "year": "1968",
+        "artist": "Os Mutantes"
+    },
+    {
+        "ranking": "161",
+        "track": "She’s There",
+        "label": "Decca Records",
+        "year": "1964",
+        "artist": "The Zombies"
+    },
+    {
+        "ranking": "162",
+        "track": "I Can See For Miles",
+        "label": "Classic Records and Track Record",
+        "year": "1967",
+        "artist": "The Who"
+    },
+    {
+        "ranking": "163",
+        "track": "Caledonia",
+        "label": "ESP Disk Records",
+        "year": "1969",
+        "artist": "Cromagnon"
+    },
+    {
+        "ranking": "164",
+        "track": "It Was a Very Good Year",
+        "label": "Reprise Records",
+        "year": "1965",
+        "artist": "Frank Sinatra"
+    },
+    {
+        "ranking": "165",
+        "track": "Monk Time",
+        "label": "Polydor Records",
+        "year": "1966",
+        "artist": "The Monks"
+    },
+    {
+        "ranking": "166",
+        "track": "Nothing But a Heartache",
+        "label": "Deram Records",
+        "year": "1969",
+        "artist": "The Flirtations"
+    },
+    {
+        "ranking": "167",
+        "track": "Different Drum",
+        "label": "Capitol Records",
+        "year": "1967",
+        "artist": "Stone Poneys"
+    },
+    {
+        "ranking": "168",
+        "track": "Ghosts",
+        "label": "Impulse! Records",
+        "year": "1964",
+        "artist": "Albert Ayler"
+    },
+    {
+        "ranking": "169",
+        "track": "Uptight (Everything’s Alright)",
+        "label": "Tamla Motown Records",
+        "year": "1966",
+        "artist": "Stevie Wonder"
+    },
+    {
+        "ranking": "170",
+        "track": "Tous Les Garcons et Les Filles",
+        "label": "Disques Vogue",
+        "year": "1964",
+        "artist": "Françoise Hardy"
+    },
+    {
+        "ranking": "171",
+        "track": "Sweet Caroline",
+        "label": "UNI Records",
+        "year": "1969",
+        "artist": "Neil Diamond"
+    },
+    {
+        "ranking": "172",
+        "track": "Here I Go Again",
+        "label": "Atlantic Records",
+        "year": "1969",
+        "artist": "Archie Bell & the Drells"
+    },
+    {
+        "ranking": "173",
+        "track": "I Ain’t Marching Anymore",
+        "label": "Elektra Records",
+        "year": "1965",
+        "artist": "Phil Ochs"
+    },
+    {
+        "ranking": "174",
+        "track": "Christmas (Baby Please Come Home)",
+        "label": "Philles Records",
+        "year": "1963",
+        "artist": "Darlene Love"
+    },
+    {
+        "ranking": "175",
+        "track": "Don’t Come Home a Drinkin’ (With Lovin’ on Your Mind)",
+        "label": "Decca Records",
+        "year": "1967",
+        "artist": "Loretta Lynn"
+    },
+    {
+        "ranking": "176",
+        "track": "Kick Out the Jams",
+        "label": "Elektra Records",
+        "year": "1969",
+        "artist": "MC5"
+    },
+    {
+        "ranking": "177",
+        "track": "Egyptian Shumba",
+        "label": "United Artists Records",
+        "year": "1963",
+        "artist": "The Tammys"
+    },
+    {
+        "ranking": "178",
+        "track": "I’ve Been Loving You Too Long (To Stop Now)",
+        "label": "Volt Records",
+        "year": "1965",
+        "artist": "Otis Redding"
+    },
+    {
+        "ranking": "179",
+        "track": "Armée Guinéenne",
+        "label": "“Unknown”",
+        "year": "1969",
+        "artist": "Bembeya Jazz National"
+    },
+    {
+        "ranking": "180",
+        "track": "Moulty",
+        "label": "Laurie Records",
+        "year": "1965",
+        "artist": "The Barbarians"
+    },
+    {
+        "ranking": "181",
+        "track": "Laisse Tomber les Filles",
+        "label": "Phillips Records",
+        "year": "1964",
+        "artist": "France Gall"
+    },
+    {
+        "ranking": "182",
+        "track": "She’s Got You",
+        "label": "Decca Records",
+        "year": "1962",
+        "artist": "Patsy Cline"
+    },
+    {
+        "ranking": "183",
+        "track": "Beyond the Sea",
+        "label": "ATO Records",
+        "year": "1960",
+        "artist": "Bobby Darin"
+    },
+    {
+        "ranking": "184",
+        "track": "Mother Popcorn (You Got to Have a Mother for Me)",
+        "label": "King Records",
+        "year": "1969",
+        "artist": "James Brown"
+    },
+    {
+        "ranking": "185",
+        "track": "Get Ready",
+        "label": "Gordy Records",
+        "year": "1966",
+        "artist": "The Temptations"
+    },
+    {
+        "ranking": "186",
+        "track": "Bus Stop",
+        "label": "Imperial Records",
+        "year": "1966",
+        "artist": "The Hollies"
+    },
+    {
+        "ranking": "187",
+        "track": "The Sun Ain’t Gonna Shine Anymore",
+        "label": "Smash Records",
+        "year": "1966",
+        "artist": "The Walker Brothers"
+    },
+    {
+        "ranking": "188",
+        "track": "Debora",
+        "label": "A&amp;M Records",
+        "year": "1968",
+        "artist": "Tyrannosaurus Rex"
+    },
+    {
+        "ranking": "189",
+        "track": "Strychnine",
+        "label": "Etiquette Records",
+        "year": "1965",
+        "artist": "The Sonics"
+    },
+    {
+        "ranking": "190",
+        "track": "So Long, Marianne",
+        "label": "Columbia Records",
+        "year": "1968",
+        "artist": "Leonard Cohen"
+    },
+    {
+        "ranking": "191",
+        "track": "Mercy, Mercy, Mercy",
+        "label": "Capitol Records",
+        "year": "1966",
+        "artist": "The Cannonball Adderley Quintet"
+    },
+    {
+        "ranking": "192",
+        "track": "I’m Still in Love With You",
+        "label": "Studio One Records",
+        "year": "1967",
+        "artist": "Alton Ellis"
+    },
+    {
+        "ranking": "193",
+        "track": "Jackson",
+        "label": "Columbia Records",
+        "year": "1967",
+        "artist": "Johnny and June Carter Cash"
+    },
+    {
+        "ranking": "194",
+        "track": "Build Me Up Buttercup",
+        "label": "UNI Records",
+        "year": "1968",
+        "artist": "The Foundations"
+    },
+    {
+        "ranking": "195",
+        "track": "Night Train (Live at the Apollo)",
+        "label": "King Records",
+        "year": "1963",
+        "artist": "James Brown"
+    },
+    {
+        "ranking": "196",
+        "track": "Time Is on My Side",
+        "label": "Imperial Records",
+        "year": "1964",
+        "artist": "Irma Thomas"
+    },
+    {
+        "ranking": "197",
+        "track": "Solo Dancer",
+        "label": "Impulse! Records",
+        "year": "1963",
+        "artist": "Charles Mingus"
+    },
+    {
+        "ranking": "198",
+        "track": "Walk on By",
+        "label": "Scepter Records",
+        "year": "1964",
+        "artist": "Dionne Warwick"
+    },
+    {
+        "ranking": "199",
+        "track": "Black Is the Color of My True Love’s Hair",
+        "label": "Colpix Records",
+        "year": "1964",
+        "artist": "Nina Simone"
+    },
+    {
+        "ranking": "200",
+        "track": "Sunny Afternoon",
+        "label": "Marble Arch Records",
+        "year": "1966",
+        "artist": "The Kinks"
+    }
+]
