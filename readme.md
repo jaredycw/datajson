@@ -21,6 +21,9 @@ Robert Ebert Movie List -> [link](https://jaredycw.github.io/datajson/movie/west
 Oscar Academy Awards List -> Comming Soon
 
 Golden Globe Awards -> ?
+
+BAFTA Film Awards -> ?
+
 ## Chinese
 香港電影金像獎 Hong Kong Film Award (HKFA) -> [link](https://jaredycw.github.io/datajson/movie/chinese/hkfa/data.json)
 
