@@ -1,0 +1,603 @@
+[
+ {
+   "ranking": "1",
+   "movie": "Citizen Kane",
+   "year": 1941,
+   "director": "Orson Welles"
+ },
+ {
+   "ranking": "2",
+   "movie": "The Godfather",
+   "year": 1972,
+   "director": "Francis Ford Coppola"
+ },
+ {
+   "ranking": "3",
+   "movie": "Casablanca",
+   "year": 1942,
+   "director": "Michael Curtiz"
+ },
+ {
+   "ranking": "4",
+   "movie": "Raging Bull",
+   "year": 1980,
+   "director": "Martin Scorsese"
+ },
+ {
+   "ranking": "5",
+   "movie": "Singin’ In The Rain",
+   "year": 1952,
+   "director": "Gene Kelly Stanley Donen"
+ },
+ {
+   "ranking": "6",
+   "movie": "Gone With The Wind",
+   "year": 1939,
+   "director": "Victor Fleming Sam Wood, George Cukor, Chester Franklin, James Fitzpatrick"
+ },
+ {
+   "ranking": "7",
+   "movie": "Lawrence Of Arabia",
+   "year": 1962,
+   "director": "David Lean"
+ },
+ {
+   "ranking": "8",
+   "movie": "Schindler’S List",
+   "year": 1993,
+   "director": "Steven Spielberg"
+ },
+ {
+   "ranking": "9",
+   "movie": "Vertigo",
+   "year": 1958,
+   "director": "Alfred Hitchcock"
+ },
+ {
+   "ranking": "10",
+   "movie": "The Wizard Of Oz",
+   "year": 1939,
+   "director": "Victor Fleming King Vidor"
+ },
+ {
+   "ranking": "11",
+   "movie": "City Lights",
+   "year": 1931,
+   "director": "Charles Chaplin"
+ },
+ {
+   "ranking": "12",
+   "movie": "The Searchers",
+   "year": 1956,
+   "director": "John Ford"
+ },
+ {
+   "ranking": "13",
+   "movie": "Star Wars",
+   "year": 1977,
+   "director": "George Lucas"
+ },
+ {
+   "ranking": "14",
+   "movie": "Psycho",
+   "year": 1960,
+   "director": "Alfred Hitchcock"
+ },
+ {
+   "ranking": "15",
+   "movie": "2001: A Space Odyssey",
+   "year": 1968,
+   "director": "Stanley Kubrick"
+ },
+ {
+   "ranking": "16",
+   "movie": "Sunset Blvd.",
+   "year": 1950,
+   "director": "Billy Wilder"
+ },
+ {
+   "ranking": "17",
+   "movie": "The Graduate",
+   "year": 1967,
+   "director": "Mike Nichols"
+ },
+ {
+   "ranking": "18",
+   "movie": "The General",
+   "year": 1926,
+   "director": "Buster Keaton Clyde Bruckman"
+ },
+ {
+   "ranking": "19",
+   "movie": "On The Waterfront",
+   "year": 1954,
+   "director": "Elia Kazan"
+ },
+ {
+   "ranking": "20",
+   "movie": "Its A Wonderful Life",
+   "year": 1946,
+   "director": "Frank Capra"
+ },
+ {
+   "ranking": "21",
+   "movie": "Chinatown",
+   "year": 1974,
+   "director": "Roman Polanski"
+ },
+ {
+   "ranking": "22",
+   "movie": "Some Like It Hot",
+   "year": 1959,
+   "director": "Billy Wilder"
+ },
+ {
+   "ranking": "23",
+   "movie": "The Grapes Of Wrath",
+   "year": 1940,
+   "director": "John Ford"
+ },
+ {
+   "ranking": "24",
+   "movie": "E.T.:  The Extra-Terrestrial",
+   "year": 1982,
+   "director": "Steven Spielberg"
+ },
+ {
+   "ranking": "25",
+   "movie": "To Kill A Mockingbird",
+   "year": 1962,
+   "director": "Robert Mulligan"
+ },
+ {
+   "ranking": "26",
+   "movie": "Mr. Smith Goes To Washington",
+   "year": 1939,
+   "director": "Frank Capra"
+ },
+ {
+   "ranking": "27",
+   "movie": "High Noon",
+   "year": 1952,
+   "director": "Fred Zinnemann"
+ },
+ {
+   "ranking": "28",
+   "movie": "All About Eve",
+   "year": 1950,
+   "director": "Joseph L. Mankiewicz"
+ },
+ {
+   "ranking": "29",
+   "movie": "Double Indemnity",
+   "year": 1944,
+   "director": "Billy Wilder"
+ },
+ {
+   "ranking": "30",
+   "movie": "Apocalypse Now",
+   "year": 1979,
+   "director": "Francis Ford Coppola"
+ },
+ {
+   "ranking": "31",
+   "movie": "The Maltese Falcon",
+   "year": 1941,
+   "director": "John Huston"
+ },
+ {
+   "ranking": "32",
+   "movie": "The Godfather Part Ii",
+   "year": 1974,
+   "director": "Francis Ford Coppola"
+ },
+ {
+   "ranking": "33",
+   "movie": "One Flew Over The Cuckoo’S Nest",
+   "year": 1975,
+   "director": "Milos Forman"
+ },
+ {
+   "ranking": "34",
+   "movie": "Snow White And The Seven Dwarfs",
+   "year": 1937,
+   "director": null,
+   "導演#2": ""
+ },
+ {
+   "ranking": "35",
+   "movie": "Annie Hall",
+   "year": 1977,
+   "director": "Woody Allen"
+ },
+ {
+   "ranking": "36",
+   "movie": "The Bridge On The River Kwai",
+   "year": 1957,
+   "director": "David Lean"
+ },
+ {
+   "ranking": "37",
+   "movie": "The Best Years Of Our Lives",
+   "year": 1946,
+   "director": "William Wyler"
+ },
+ {
+   "ranking": "38",
+   "movie": "The Treasure Of The Sierra Madre",
+   "year": 1948,
+   "director": "John Huston"
+ },
+ {
+   "ranking": "39",
+   "movie": "Dr. Strangelove Or: How I Learned To Stop Worrying And Love The Bomb",
+   "year": 1964,
+   "director": "Stanley Kubrick"
+ },
+ {
+   "ranking": "40",
+   "movie": "The Sound Of Music",
+   "year": 1965,
+   "director": "Robert Wise"
+ },
+ {
+   "ranking": "41",
+   "movie": "King Kong",
+   "year": 1933,
+   "director": "Merian C. Cooper Ernest B. Schoedsack"
+ },
+ {
+   "ranking": "42",
+   "movie": "Bonnie And Clyde",
+   "year": 1967,
+   "director": "Arthur Penn"
+ },
+ {
+   "ranking": "43",
+   "movie": "Midnight Cowboy",
+   "year": 1969,
+   "director": "John Schlesinger"
+ },
+ {
+   "ranking": "44",
+   "movie": "The Philadelphia Story",
+   "year": 1940,
+   "director": "George Cukor"
+ },
+ {
+   "ranking": "45",
+   "movie": "Shane",
+   "year": 1953,
+   "director": "George Stevens"
+ },
+ {
+   "ranking": "46",
+   "movie": "It Happened One Night",
+   "year": 1934,
+   "director": "Frank Capra"
+ },
+ {
+   "ranking": "47",
+   "movie": "A Streetcar Named Desire",
+   "year": 1951,
+   "director": "Elia Kazan"
+ },
+ {
+   "ranking": "48",
+   "movie": "Rear Window",
+   "year": 1954,
+   "director": "Alfred Hitchcock"
+ },
+ {
+   "ranking": "49",
+   "movie": "Intolerance",
+   "year": 1916,
+   "director": "D. W. Griffith"
+ },
+ {
+   "ranking": "50",
+   "movie": "The Lord Of The Rings: The Fellowship Of The Ring",
+   "year": 2001,
+   "director": "Peter Jackson"
+ },
+ {
+   "ranking": "51",
+   "movie": "West Side Story",
+   "year": 1961,
+   "director": "Robert Wise Jerome Robbins"
+ },
+ {
+   "ranking": "52",
+   "movie": "Taxi Driver",
+   "year": 1976,
+   "director": "Martin Scorsese"
+ },
+ {
+   "ranking": "53",
+   "movie": "The Deer Hunter",
+   "year": 1978,
+   "director": "Michael Cimino"
+ },
+ {
+   "ranking": "54",
+   "movie": "M*A*S*H",
+   "year": 1970,
+   "director": "Robert Altman"
+ },
+ {
+   "ranking": "55",
+   "movie": "North By Northwest",
+   "year": 1959,
+   "director": "Alfred Hitchcock"
+ },
+ {
+   "ranking": "56",
+   "movie": "Jaws",
+   "year": 1975,
+   "director": "Steven Spielberg"
+ },
+ {
+   "ranking": "57",
+   "movie": "Rocky",
+   "year": 1976,
+   "director": "John G. Avildsen"
+ },
+ {
+   "ranking": "58",
+   "movie": "The Gold Rush",
+   "year": 1925,
+   "director": "Charles Chaplin"
+ },
+ {
+   "ranking": "59",
+   "movie": "Nashville",
+   "year": 1975,
+   "director": "Robert Altman"
+ },
+ {
+   "ranking": "60",
+   "movie": "Duck Soup",
+   "year": 1933,
+   "director": "Leo McCarey"
+ },
+ {
+   "ranking": "61",
+   "movie": "Sullivan’S Travels",
+   "year": 1941,
+   "director": "Preston Sturges"
+ },
+ {
+   "ranking": "62",
+   "movie": "American Graffiti",
+   "year": 1973,
+   "director": "George Lucas"
+ },
+ {
+   "ranking": "63",
+   "movie": "Cabaret",
+   "year": 1972,
+   "director": "Bob Fosse"
+ },
+ {
+   "ranking": "64",
+   "movie": "Network",
+   "year": 1976,
+   "director": "Sidney Lumet"
+ },
+ {
+   "ranking": "65",
+   "movie": "The African Queen",
+   "year": 1951,
+   "director": "John Huston"
+ },
+ {
+   "ranking": "66",
+   "movie": "Raiders Of The Lost Ark",
+   "year": 1981,
+   "director": "Steven Spielberg"
+ },
+ {
+   "ranking": "67",
+   "movie": "Who’S Afraid Of Virginia Woolf?",
+   "year": 1966,
+   "director": "Mike Nichols"
+ },
+ {
+   "ranking": "68",
+   "movie": "Unforgiven",
+   "year": 1992,
+   "director": "Clint Eastwood"
+ },
+ {
+   "ranking": "69",
+   "movie": "Tootsie",
+   "year": 1982,
+   "director": "Sydney Pollack"
+ },
+ {
+   "ranking": "70",
+   "movie": "A Clockwork Orange",
+   "year": 1971,
+   "director": "Stanley Kubrick"
+ },
+ {
+   "ranking": "71",
+   "movie": "Saving Private Ryan",
+   "year": 1998,
+   "director": "Steven Spielberg"
+ },
+ {
+   "ranking": "72",
+   "movie": "The Shawshank Redemption",
+   "year": 1994,
+   "director": "Frank Darabont"
+ },
+ {
+   "ranking": "73",
+   "movie": "Butch Cassidy And The Sundance Kid",
+   "year": 1969,
+   "director": "George Roy Hill"
+ },
+ {
+   "ranking": "74",
+   "movie": "The Silence Of The Lambs",
+   "year": 1991,
+   "director": "Jonathan Demme"
+ },
+ {
+   "ranking": "75",
+   "movie": "In The Heat Of The Night",
+   "year": 1967,
+   "director": "Norman Jewison"
+ },
+ {
+   "ranking": "76",
+   "movie": "Forrest Gump",
+   "year": 1994,
+   "director": "Robert Zemeckis"
+ },
+ {
+   "ranking": "77",
+   "movie": "All The President’S Men",
+   "year": 1976,
+   "director": "Alan J. Pakula"
+ },
+ {
+   "ranking": "78",
+   "movie": "Modern Times",
+   "year": 1936,
+   "director": "Charles Chaplin"
+ },
+ {
+   "ranking": "79",
+   "movie": "The Wild Bunch",
+   "year": 1969,
+   "director": "Sam Peckinpah"
+ },
+ {
+   "ranking": "80",
+   "movie": "The Apartment",
+   "year": 1960,
+   "director": "Billy Wilder"
+ },
+ {
+   "ranking": "81",
+   "movie": "Spartacus",
+   "year": 1960,
+   "director": "Stanley Kubrick Anthony Mann"
+ },
+ {
+   "ranking": "82",
+   "movie": "Sunrise:  A Song Of Two Humans",
+   "year": 1927,
+   "director": "F. W. Murnau"
+ },
+ {
+   "ranking": "83",
+   "movie": "Titanic",
+   "year": 1997,
+   "director": "James Cameron"
+ },
+ {
+   "ranking": "84",
+   "movie": "Easy Rider",
+   "year": 1969,
+   "director": "Dennis Hopper"
+ },
+ {
+   "ranking": "85",
+   "movie": "A Night At The Opera",
+   "year": 1935,
+   "director": "Sam Wood"
+ },
+ {
+   "ranking": "86",
+   "movie": "Platoon",
+   "year": 1986,
+   "director": "Oliver Stone"
+ },
+ {
+   "ranking": "87",
+   "movie": "Angry Men",
+   "year": 1957,
+   "director": "Sidney Lumet"
+ },
+ {
+   "ranking": "88",
+   "movie": "Bringing Up Baby",
+   "year": 1938,
+   "director": "Howard Hawks"
+ },
+ {
+   "ranking": "89",
+   "movie": "The Sixth Sense",
+   "year": 1999,
+   "director": "M. Night Shyamalan"
+ },
+ {
+   "ranking": "90",
+   "movie": "Swing Time",
+   "year": 1936,
+   "director": "George Stevens"
+ },
+ {
+   "ranking": "91",
+   "movie": "Sophie’S Choice",
+   "year": 1982,
+   "director": "Alan J. Pakula"
+ },
+ {
+   "ranking": "92",
+   "movie": "Goodfellas",
+   "year": 1990,
+   "director": "Martin Scorsese"
+ },
+ {
+   "ranking": "93",
+   "movie": "The French Connection",
+   "year": 1971,
+   "director": "William Friedkin"
+ },
+ {
+   "ranking": "94",
+   "movie": "Pulp Fiction",
+   "year": 1994,
+   "director": "Quentin Tarantino"
+ },
+ {
+   "ranking": "95",
+   "movie": "The Last Picture Show",
+   "year": 1971,
+   "director": "Peter Bogdanovich"
+ },
+ {
+   "ranking": "96",
+   "movie": "Do The Right Thing",
+   "year": 1989,
+   "director": "Spike Lee"
+ },
+ {
+   "ranking": "97",
+   "movie": "Blade Runner",
+   "year": 1982,
+   "director": "Ridley Scott"
+ },
+ {
+   "ranking": "98",
+   "movie": "Yankee Doodle Dandy",
+   "year": 1942,
+   "director": "Michael Curtiz"
+ },
+ {
+   "ranking": "99",
+   "movie": "Toy Story",
+   "year": 1995,
+   "director": "John Lasseter"
+ },
+ {
+   "ranking": "100",
+   "movie": "Ben-Hur",
+   "year": 1959,
+   "director": "William Wyler"
+ }
+]
