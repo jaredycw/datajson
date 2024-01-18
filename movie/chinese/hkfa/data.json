@@ -1,0 +1,371 @@
+[
+    {
+        "session": "第1屆香港電影金像獎得獎名單",
+        "sessionNumber": 1,
+        "year": 1982,
+        "bestFilm": "父子情",
+        "bestDirector": "方育平 (父子情)",
+        "bestActor": "許冠文 (摩登保鏢)",
+        "bestActress": "惠英紅 (長輩)"
+    },
+    {
+        "session": "第2屆香港電影金像獎提名及得獎名單",
+        "sessionNumber": 2,
+        "year": 1983,
+        "bestFilm": "投奔怒海",
+        "bestDirector": "許鞍華 (投奔怒海)",
+        "bestActor": "麥嘉 (最佳拍擋)",
+        "bestActress": "林碧琪 (靚妹仔)"
+    },
+    {
+        "session": "第3屆香港電影金像獎提名及得獎名單",
+        "sessionNumber": 3,
+        "year": 1984,
+        "bestFilm": "半邊人",
+        "bestDirector": "方育平 (半邊人)",
+        "bestActor": "梁家輝 (垂簾聽政)",
+        "bestActress": "葉童 (表錯七日情)"
+    },
+    {
+        "session": "第4屆香港電影金像獎提名及得獎名單",
+        "sessionNumber": 4,
+        "year": 1985,
+        "bestFilm": "似水流年",
+        "bestDirector": "嚴浩 (似水流年)",
+        "bestActor": "李修賢 (公僕)",
+        "bestActress": "斯琴高娃 (似水流年)"
+    },
+    {
+        "session": "第5屆香港電影金像獎提名及得獎名單",
+        "sessionNumber": 5,
+        "year": 1986,
+        "bestFilm": "警察故事",
+        "bestDirector": "張婉婷 (非法移民)",
+        "bestActor": "鄭則仕 (何必有我)",
+        "bestActress": "王小鳳(錯點鴛鴦)"
+    },
+    {
+        "session": "第6屆香港電影金像獎提名及得獎名單",
+        "sessionNumber": 6,
+        "year": 1987,
+        "bestFilm": "英雄本色",
+        "bestDirector": "方育平 (美國心)",
+        "bestActor": "周潤發 (英雄本色)",
+        "bestActress": "張艾嘉 (最愛)"
+    },
+    {
+        "session": "第7屆香港電影金像獎提名及得獎名單",
+        "sessionNumber": 7,
+        "year": 1988,
+        "bestFilm": "秋天的童話",
+        "bestDirector": "林嶺東 (龍虎風雲)",
+        "bestActor": "周潤發 (龍虎風雲)",
+        "bestActress": "蕭芳芳(不是冤家不聚頭)"
+    },
+    {
+        "session": "第8屆香港電影金像獎提名及得獎名單",
+        "sessionNumber": 8,
+        "year": 1989,
+        "bestFilm": "胭脂扣",
+        "bestDirector": "關錦鵬 (胭脂扣)",
+        "bestActor": "洪金寶 (七小福)",
+        "bestActress": "梅艷芳 (胭脂扣)"
+    },
+    {
+        "session": "第9屆香港電影金像獎提名及得獎名單",
+        "sessionNumber": 9,
+        "year": 1990,
+        "bestFilm": "飛越黃昏",
+        "bestDirector": "吳宇森(喋血雙雄)",
+        "bestActor": "周潤發 (阿郎的故事)",
+        "bestActress": "張曼玉 (不脫襪的人)"
+    },
+    {
+        "session": "第10屆香港電影金像獎提名及得獎名單",
+        "sessionNumber": 10,
+        "year": 1991,
+        "bestFilm": "阿飛正傳",
+        "bestDirector": "王家衛 (阿飛正傳)",
+        "bestActor": "張國榮 (阿飛正傳)",
+        "bestActress": "鄭裕玲 (表姐你好嘢！)"
+    },
+    {
+        "session": "第11屆香港電影金像獎提名及得獎名單",
+        "sessionNumber": 11,
+        "year": 1992,
+        "bestFilm": "跛豪",
+        "bestDirector": "徐克 (黃飛鴻)",
+        "bestActor": "曾志偉 (雙城故事)",
+        "bestActress": "葉童 (婚姻勿語)"
+    },
+    {
+        "session": "第12屆香港電影金像獎提名及得獎名單",
+        "sessionNumber": 12,
+        "year": 1993,
+        "bestFilm": "籠民",
+        "bestDirector": "張之亮 (籠民)",
+        "bestActor": "梁家輝 (92黑玫瑰對黑玫瑰)",
+        "bestActress": "張曼玉 (阮玲玉)"
+    },
+    {
+        "session": "第13屆香港電影金像獎提名及得獎名單",
+        "sessionNumber": 13,
+        "year": 1994,
+        "bestFilm": "新不了情",
+        "bestDirector": "爾冬陞 (新不了情)",
+        "bestActor": "黃秋生 (八仙飯店之 人肉叉燒飽)",
+        "bestActress": "袁詠儀 (新不了情)"
+    },
+    {
+        "session": "第14屆香港電影金像獎提名及得獎名單",
+        "sessionNumber": 14,
+        "year": 1995,
+        "bestFilm": "重慶森林",
+        "bestDirector": "王家衛 (重慶森林)",
+        "bestActor": "梁朝偉 (重慶森林)",
+        "bestActress": "袁詠儀 (金枝玉葉)"
+    },
+    {
+        "session": "第15屆香港電影金像獎提名及得獎名單",
+        "sessionNumber": 15,
+        "year": 1996,
+        "bestFilm": "女人四十",
+        "bestDirector": "許鞍華（女人四十）",
+        "bestActor": "喬宏（女人四十）",
+        "bestActress": "蕭芳芳 （女人四十）"
+    },
+    {
+        "session": "第16屆香港電影金像獎提名及得獎名單",
+        "sessionNumber": 16,
+        "year": 1997,
+        "bestFilm": "甜蜜蜜",
+        "bestDirector": "陳可辛（甜蜜蜜）",
+        "bestActor": "鄭則士（三個受傷的警察）",
+        "bestActress": "張曼玉（甜蜜蜜）"
+    },
+    {
+        "session": "第17屆香港電影金像獎提名及得獎名單",
+        "sessionNumber": 17,
+        "year": 1998,
+        "bestFilm": "香港製造",
+        "bestDirector": "陳果 (香港製造)",
+        "bestActor": "梁朝偉 (春光乍洩)",
+        "bestActress": "張曼玉 (宋家皇朝)"
+    },
+    {
+        "session": "第18屆香港電影金像獎提名及得獎名單",
+        "sessionNumber": 18,
+        "year": 1999,
+        "bestFilm": "野獸刑警",
+        "bestDirector": "陳嘉上、林超賢（野獸刑警）",
+        "bestActor": "黃秋生（野獸刑警）",
+        "bestActress": "吳君如"
+    },
+    {
+        "session": "第19屆香港電影金像獎提名及得獎名單",
+        "sessionNumber": 19,
+        "year": 2000,
+        "bestFilm": "千言萬語   (Ordinary heroes)",
+        "bestDirector": "杜琪峰（鎗火）",
+        "bestActor": "劉德華（暗戰）",
+        "bestActress": "羅蘭（爆裂刑警）"
+    },
+    {
+        "session": "第20屆香港電影金像獎提名及得獎名單",
+        "sessionNumber": 20,
+        "year": 2001,
+        "bestFilm": "臥虎藏龍 ",
+        "bestDirector": "李安（臥虎藏龍）",
+        "bestActor": "梁朝偉（花樣年華）",
+        "bestActress": "張曼玉（花樣年華）"
+    },
+    {
+        "session": "第21屆香港電影金像獎提名及得獎名單",
+        "sessionNumber": 21,
+        "year": 2002,
+        "bestFilm": "少林足球   (Shaolin Soccer)",
+        "bestDirector": "周星馳（少林足球）",
+        "bestActor": "周星馳（少林足球）",
+        "bestActress": "張艾嘉（地久天長）"
+    },
+    {
+        "session": "第22屆香港電影金像獎提名及得獎名單",
+        "sessionNumber": 22,
+        "year": 2003,
+        "bestFilm": "無間道   (Infernal Affairs)",
+        "bestDirector": "劉偉強、麥兆輝（無間道）",
+        "bestActor": "梁朝偉（無間道）",
+        "bestActress": "李心潔（見鬼）"
+    },
+    {
+        "session": "第23屆香港電影金像獎提名及得獎名單",
+        "sessionNumber": 23,
+        "year": 2004,
+        "bestFilm": "大隻佬    (Running On Karma)    ",
+        "bestDirector": "杜琪峰（PTU）",
+        "bestActor": "劉德華（大隻佬）",
+        "bestActress": "張柏芝（忘不了）"
+    },
+    {
+        "session": "第24屆香港電影金像獎提名及得獎名單",
+        "sessionNumber": 24,
+        "year": 2005,
+        "bestFilm": "功夫    Kung Fu Hustle ",
+        "bestDirector": "爾冬陞（旺角黑夜）",
+        "bestActor": "梁朝偉（2046）",
+        "bestActress": "章子怡（2046）"
+    },
+    {
+        "session": "第25屆香港電影金像獎提名及得獎名單",
+        "sessionNumber": 25,
+        "year": 2006,
+        "bestFilm": "黑社會 Election ",
+        "bestDirector": "杜琪峰",
+        "bestActor": "梁家輝",
+        "bestActress": "周迅"
+    },
+    {
+        "session": "第26屆香港電影金像獎提名及得獎名單",
+        "sessionNumber": 26,
+        "year": 2007,
+        "bestFilm": "父子",
+        "bestDirector": "譚家明",
+        "bestActor": "劉青雲",
+        "bestActress": "鞏俐"
+    },
+    {
+        "session": "第27屆香港電影金像獎提名及得獎名單",
+        "sessionNumber": 27,
+        "year": 2008,
+        "bestFilm": "投名狀   ",
+        "bestDirector": "陳可辛",
+        "bestActor": "李連杰",
+        "bestActress": "斯琴高娃"
+    },
+    {
+        "session": "第28屆香港電影金像獎提名及得獎名單",
+        "sessionNumber": 28,
+        "year": 2009,
+        "bestFilm": "葉問   ",
+        "bestDirector": "許鞍華",
+        "bestActor": "張家輝",
+        "bestActress": "鮑起靜"
+    },
+    {
+        "session": "第29屆香港電影金像獎提名及得獎名單",
+        "sessionNumber": 29,
+        "year": 2010,
+        "bestFilm": "十月圍城   ",
+        "bestDirector": "陳德森",
+        "bestActor": "任達華",
+        "bestActress": "惠英紅"
+    },
+    {
+        "session": "第30屆香港電影金像獎提名及得獎名單",
+        "sessionNumber": 30,
+        "year": 2011,
+        "bestFilm": "打擂台",
+        "bestDirector": "徐克",
+        "bestActor": "謝霆鋒 ",
+        "bestActress": "劉嘉玲"
+    },
+    {
+        "session": "第31屆香港電影金像獎提名及得獎名單",
+        "sessionNumber": 31,
+        "year": 2012,
+        "bestFilm": "桃姐",
+        "bestDirector": "許鞍華（桃姐）",
+        "bestActor": "劉德華（桃姐）",
+        "bestActress": "葉德嫻（桃姐）"
+    },
+    {
+        "session": "第32屆香港電影金像獎提名及得獎名單",
+        "sessionNumber": 32,
+        "year": 2013,
+        "bestFilm": "寒戰",
+        "bestDirector": "梁樂民、陸劍青",
+        "bestActor": "梁家輝（寒戰）",
+        "bestActress": "楊千嬅（春嬌與志明）"
+    },
+    {
+        "session": "第33屆香港電影金像獎提名及得獎名單",
+        "sessionNumber": 33,
+        "year": 2014,
+        "bestFilm": "一代宗師The Grandmaster",
+        "bestDirector": "王家衛（一代宗師）",
+        "bestActor": "張家輝（激戰）",
+        "bestActress": "章子怡（一代宗師）"
+    },
+    {
+        "session": "第34屆香港電影金像獎提名及得獎名單",
+        "sessionNumber": 34,
+        "year": 2015,
+        "bestFilm": "黃金時代",
+        "bestDirector": "許鞍華（黃金時代）",
+        "bestActor": "劉青雲（竊聽風雲3）",
+        "bestActress": "趙薇（親愛的）"
+    },
+    {
+        "session": "第35屆香港電影金像獎提名及得獎名單",
+        "sessionNumber": 35,
+        "year": 2016,
+        "bestFilm": "十年Ten Years",
+        "bestDirector": "徐克（智取威虎山）",
+        "bestActor": "郭富城（踏血尋梅）",
+        "bestActress": "春夏（踏血尋梅）"
+    },
+    {
+        "session": "第36屆香港電影金像獎提名及得獎名單",
+        "sessionNumber": 36,
+        "year": 2017,
+        "bestFilm": "樹大招風(Trivisa)",
+        "bestDirector": "許學文、歐文傑、",
+        "bestActor": "林家棟（樹大招風）Lam Ka Tung (Trivisa)",
+        "bestActress": "惠英紅（幸運是我）Kara Wai (Happiness)"
+    },
+    {
+        "session": "第37屆香港電影金像獎提名及得獎名單",
+        "sessionNumber": 37,
+        "year": 2018,
+        "bestFilm": "明月幾時有",
+        "bestDirector": "許鞍華（明月幾時有）",
+        "bestActor": "古天樂（殺破狼．貪狼）",
+        "bestActress": "毛舜筠（黃金花）"
+    },
+    {
+        "session": "第38屆香港電影金像獎提名及得獎名單",
+        "sessionNumber": 38,
+        "year": 2019,
+        "bestFilm": "無雙",
+        "bestDirector": "莊文強（無雙）",
+        "bestActor": "黃秋生（淪落人）",
+        "bestActress": "曾美慧孜（三夫）"
+    },
+    {
+        "session": "第39屆香港電影金像獎提名及得獎名單",
+        "sessionNumber": 39,
+        "year": 2020,
+        "bestFilm": "少年的你 Better Days",
+        "bestDirector": "曾國祥（少年的你）",
+        "bestActor": "太保（叔‧叔）",
+        "bestActress": "周冬雨（少年的你）"
+    },
+    {
+        "session": "第40屆香港電影金像獎提名及得獎名單",
+        "sessionNumber": 40,
+        "year": 2021,
+        "bestFilm": "怒火Raging Fire",
+        "bestDirector": "陳木勝",
+        "bestActor": "謝賢",
+        "bestActress": "劉雅瑟"
+    },
+    {
+        "session": "第41屆香港電影金像獎提名名單",
+        "sessionNumber": 41,
+        "year": 2022,
+        "bestFilm": "給十九歳的我",
+        "bestDirector": "韋家輝",
+        "bestActor": "劉青雲",
+        "bestActress": "鄭秀文"
+    }
+]
