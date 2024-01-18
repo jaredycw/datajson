@@ -24,3 +24,6 @@ Pitchfork 1980s Best 200 Best Songs -> [link](https://jaredycw.github.io/datajso
 Pitchfork 1990s Best 250 Best Songs -> [link](https://jaredycw.github.io/datajson/music/western/pitchfork/decades/besttracks/1990s/data.json)
 
 Pitchfork 2000s Best 200 Best Songs -> [link](https://jaredycw.github.io/datajson/music/western/pitchfork/decades/besttracks/2000s/data.json)
+### Rolling Stone
+
+The 500 Greatest Songs of All Time -> [link](https://jaredycw.github.io/datajson/music/western/rollingstone/500GreatestSong/data.json)
