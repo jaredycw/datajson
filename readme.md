@@ -19,10 +19,15 @@ American Film Institute's 100 Years 100 Movies (AFI)  -> [link](https://jaredycw
 Robert Ebert Movie List -> [link](https://jaredycw.github.io/datajson/movie/western/RobertEbert/data.json)
 
 Oscar Academy Awards List -> Comming Soon
+
+Golden Globe Awards -> ?
 ## Chinese
 香港電影金像獎 Hong Kong Film Award (HKFA) -> [link](https://jaredycw.github.io/datajson/movie/chinese/hkfa/data.json)
 
+香港電影評論學會大獎 Hong Kong Film Critics Society Award -> Comming Soon
+
 台北金馬影展 Golden Horse Film Festival -> Comming Soon
+
 
 # Music list
 ## English
