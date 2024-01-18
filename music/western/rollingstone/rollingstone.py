@@ -44,9 +44,8 @@ for i in range(len(pages)):
     year = wait.until(EC.visibility_of_all_elements_located((By.CSS_SELECTOR, '.rs-list-item--year')))
 
     for j in range(len(songs)):
-        raw1 = re.findall("^\w.[^,]+", raw[j].text)
-        artist = "".join(raw1)
-        raw2 = re.findall("‘(.*?)’", raw[j].text)
+        artist = re.sub(", ‘([^']+)’", "", raw[j].text)
+        raw2 = re.findall("‘([^']+)’", raw[j].text)
         track = "".join(raw2)
         song_list.append({"ranking": rank[j].text, "raw": raw[j].text, "track": track, "artist": artist, "year": year[j].text})      
         print('finished ', j)
