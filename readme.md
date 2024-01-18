@@ -48,3 +48,9 @@ Pitchfork 2000s Best 200 Best Songs -> [link](https://jaredycw.github.io/datajso
 The 500 Greatest Songs of All Time -> [link](https://jaredycw.github.io/datajson/music/western/rollingstone/500GreatestSong/data.json)
 
 The 500 Greatest Albums of All Time ->  Coming Soon
+
+Billboard Music Awards
+
+Grammy Awards
+
+Rock & Roll Hall of Fame
