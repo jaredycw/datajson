@@ -30,6 +30,7 @@ def scrape_hkfa_awards(start_year, end_year):
                 award_sessions = [re.sub(r"\n.+", "", session.text.strip()) for session in rows[0].find_all("td")]
                 best_films_list = []
                 best_directors_list = []
+                best_screenplay_list = []
                 best_actors_list= []
                 best_actress_list= []
                 year_list = []
@@ -38,6 +39,7 @@ def scrape_hkfa_awards(start_year, end_year):
                 session = ""
                 bestFilm = ""
                 bestDirector = ""
+                bestScreenPlay = ""
                 bestActress = ""
                 bestActor = ""
 
@@ -45,10 +47,12 @@ def scrape_hkfa_awards(start_year, end_year):
                     try:
                         best_film = rows[th+1].find_all("td")[1]
                         best_director = rows[th+2].find_all("td")[1]
+                        bestScreenPlay = rows[th+3].find_all("td")[1]
                         best_actor = rows[th+4].find_all("td")[1]
                         best_actress = rows[th+5].find_all("td")[1]
                         best_films_list.append(best_film.text.strip())
                         best_directors_list.append(best_director.text.strip())
+                        best_screenplay_list.append(bestScreenPlay.text.strip())
                         best_actors_list.append(best_actor.text.strip())
                         best_actress_list.append(best_actress.text.strip())
                         year_list.append(year)
@@ -59,20 +63,28 @@ def scrape_hkfa_awards(start_year, end_year):
                     try:
                         best_film = rows[th+1].find_all("td")[2]
                         best_director = rows[th+2].find_all("td")[2]
+                        bestScreenPlay = rows[th+6].find_all("td")[2]
+
                         best_actor = rows[th+3].find_all("td")[2]
                         best_actress = rows[th+4].find_all("td")[2]
 
-
                         tidy_best_director = re.sub(r"\n.*", "", best_director.text.strip())
+                        tidy_best_screenplay = re.sub(r"\n.*", "", bestScreenPlay.text.strip())
+
                         tidy_best_actor = re.sub(r"\n.*", "", best_actor.text.strip())
                         tidy_best_actress = re.sub(r"\n.*", "", best_actress.text.strip())
 
-                        best_actress = rows[th+4].find_all("td")[2]
+                        if i > 3:
+                            bestScreenPlay = rows[th+8].find_all("td")[2]
+                            tidy_best_screenplay = re.sub(r"\n.*", "", bestScreenPlay.text.strip())
+
                         if i > 7:
+                            bestScreenPlay = rows[th+3].find_all("td")[2]
                             best_actor = rows[th+4].find_all("td")[2]
                             best_actress = rows[th+5].find_all("td")[2]
 
                             tidy_best_director = re.sub(r"\n.*", "", best_director.text.strip())
+                            tidy_best_screenplay = re.sub(r"\n.*", "", bestScreenPlay.text.strip())
                             tidy_best_actor = re.sub(r"\n.*", "", best_actor.text.strip())
                             tidy_best_actress = re.sub(r"\n.*", "", best_actress.text.strip())
 
@@ -80,8 +92,10 @@ def scrape_hkfa_awards(start_year, end_year):
                         best_films_list.append(tidy_best_film)
 
                         best_directors_list.append(tidy_best_director)
+                        best_screenplay_list.append(tidy_best_screenplay)
                         best_actors_list.append(tidy_best_actor)
                         best_actress_list.append(tidy_best_actress)
+                        
                         year_list.append(year)
                         session_list.append(i)
                     except (IndexError, KeyError):
@@ -97,6 +111,8 @@ def scrape_hkfa_awards(start_year, end_year):
                 looping_list( bestFilm, best_films_list, field_name, movie_list, award_sessions)
                 field_name = "bestDirector"
                 looping_list( bestDirector, best_directors_list, field_name, movie_list, award_sessions)
+                field_name = "bestScreenPlay"
+                looping_list( bestScreenPlay, best_screenplay_list, field_name, movie_list, award_sessions)
                 field_name = "bestActor"
                 looping_list( bestActor, best_actors_list, field_name, movie_list, award_sessions)
                 field_name = "bestActress"
