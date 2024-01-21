@@ -27,9 +27,9 @@ BAFTA Film Awards -> ?
 ## Chinese
 香港電影金像獎 Hong Kong Film Award (HKFA) -> [link](https://jaredycw.github.io/datajson/movie/chinese/hkfa/data.json)
 
-香港電影評論學會大獎 Hong Kong Film Critics Society Award -> Comming Soon
+香港電影評論學會大獎 Hong Kong Film Critics Society Award -> [link](https://jaredycw.github.io/datajson/movie/chinese/hkfcsa/data.json)
 
-台北金馬影展 Golden Horse Film Festival -> Comming Soon
+台北金馬影展 Golden Horse Film Festival -> [link](https://jaredycw.github.io/datajson/movie/chinese/goldenhorse/data.json)
 
 
 # Music list
