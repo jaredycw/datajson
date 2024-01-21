@@ -13,12 +13,13 @@ output JSON file
 
 # Movie list
 
+some awards: best film, best director, best actor, best actress, best screenplay
 ## English
 American Film Institute's 100 Years 100 Movies (AFI)  -> [link](https://jaredycw.github.io/datajson/movie/western/AFI/data.json)
 
 Robert Ebert Movie List -> [link](https://jaredycw.github.io/datajson/movie/western/RobertEbert/data.json)
 
-Oscar Academy Awards List -> Comming Soon
+Oscar Academy Awards List -> [link](https://jaredycw.github.io/datajson/movie/western/oscars/data.json)
 
 Golden Globe Awards -> ?
 
