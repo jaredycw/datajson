@@ -47,7 +47,7 @@ def table_function(variable_table, year):
             tidy_marked_rows = "N/A"
             return tidy_marked_rows
     
-        return None
+        return "N/A"
     else:
         tidy_marked_rows = "N/A"
         return tidy_marked_rows
@@ -79,6 +79,7 @@ bestActress_table = ""
 bestScreenplay_table = ""
 bestOriginalScreenplay_table = ""
 bestAdaptedScreenplay_table = ""
+previous_best_screenplay = ""
 for i in range(60):
    
     print("Year is ", year)
@@ -102,13 +103,13 @@ for i in range(60):
     bestScreenplay_table= searching_heading(bestScreenplay_table, searching_text)
 
     
-    if year > 1978:
-        searching_text="最佳原著劇本"
-        bestOriginalScreenplay_table = searching_heading(bestOriginalScreenplay_table, searching_text)
-        searching_text="最佳改編劇本"
-        bestAdaptedScreenplay_table = searching_heading(bestAdaptedScreenplay_table, searching_text)
-        best_original_screenplay = table_function(bestOriginalScreenplay_table, year)
-        best_adapted_screenplay = table_function(bestAdaptedScreenplay_table, year)
+
+    searching_text="最佳原著劇本"
+    bestOriginalScreenplay_table = searching_heading(bestOriginalScreenplay_table, searching_text)
+    searching_text="最佳改編劇本"
+    bestAdaptedScreenplay_table = searching_heading(bestAdaptedScreenplay_table, searching_text)
+    best_original_screenplay = table_function(bestOriginalScreenplay_table, year)
+    best_adapted_screenplay = table_function(bestAdaptedScreenplay_table, year)
         
  
         
@@ -118,6 +119,10 @@ for i in range(60):
     best_actor = table_function(bestActor_table, year)
     best_actress = table_function(bestActress_table, year)
     best_screenplay = table_function(bestScreenplay_table, year)
+    if best_screenplay == previous_best_screenplay:
+        best_screenplay = "N/A"
+    else:
+        previous_best_screenplay = best_screenplay
     
 
     if best_film and best_director and best_actor and best_actress:
