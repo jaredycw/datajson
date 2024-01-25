@@ -21,8 +21,6 @@ Robert Ebert Movie List -> [link](https://jaredycw.github.io/datajson/movie/west
 
 Oscar Academy Awards List -> [link](https://jaredycw.github.io/datajson/movie/western/oscars/data.json)
 
-Golden Globe Awards -> ?
-
 BAFTA Film Awards -> ?
 
 ## Chinese
@@ -50,8 +48,4 @@ The 500 Greatest Songs of All Time -> [link](https://jaredycw.github.io/datajson
 
 The 500 Greatest Albums of All Time ->  Coming Soon
 
-Billboard Music Awards
 
-Grammy Awards
-
-Rock & Roll Hall of Fame
