@@ -21,7 +21,7 @@ driver = webdriver.Chrome(options=chrome_options)
 bestAlbum = ""
 bestSong = ""
 bestRecord = ""
-newArtist = ""
+
 
 wait = WebDriverWait(driver, 10)
  
@@ -62,7 +62,7 @@ for i in range(1, session_total ):
         winner_song = driver.find_elements(By.CSS_SELECTOR, ".mb-15px.text-center .w-full.text-center.font-polaris.font-bold.tracking-wider")
         artist_element = driver.find_elements(By.CSS_SELECTOR, ".mb-15px.text-center .awards-category-link a")
         new_artist_element = driver.find_elements(By.CSS_SELECTOR, ".mb-15px.text-center .text-center.font-polaris.tracking-wider")
-    
+        newArtist = ""
         for j in range(len(section)):
             if award_titles[j].text == "ALBUM OF THE YEAR":
                 print("ALBUM OF THE YEAR is", winner_song[j].text)
@@ -102,11 +102,14 @@ for i in range(1, session_total ):
                 print("==========================================")
             
             if award_titles[j].text == "BEST NEW ARTIST":
-                new_artist_element = new_artist_element[j].text
-                tidy_new_artist_element = new_artist_element.replace("\"", "")
-                if new_artist_element:
-                    print("tidy new is", tidy_new_artist_element)
-                    newArtist = tidy_new_artist_element
+                if j < len(artist_element):
+                    new_artist_element = new_artist_element[j].text
+                    tidy_new_artist_element = new_artist_element.replace("\"", "")
+                    if new_artist_element:
+                        print("tidy new is", tidy_new_artist_element)
+                        newArtist = tidy_new_artist_element
+                    else:
+                        newArtist = "N/A"
                 else:
                     newArtist = "N/A"
                 print("==========================================")
