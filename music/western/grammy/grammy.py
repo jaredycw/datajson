@@ -9,7 +9,7 @@ import re
 pages = []
 song_list = []
 year = 1958
-session_total = 2023 - year
+session_total = 66
 base_url = "https://www.grammy.com/awards/"
 
 
@@ -111,7 +111,7 @@ for i in range(1, session_total ):
                     newArtist = "N/A"
                 print("==========================================")
 
-        year += 1
+        
     except:
         print("stop in session", session)
         
@@ -124,7 +124,8 @@ for i in range(1, session_total ):
             "newArtist": newArtist,
         })    
     
-   
+    year += 1
+    
 
     
  
