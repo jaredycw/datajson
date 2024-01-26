@@ -5,7 +5,7 @@
         "bestRecord": "Nel Blu Dipinto Di Blu (Volare) - Domenico Modugno",
         "bestAlbum": "The Music From Peter Gunn - Henry Mancini",
         "bestSong": "Nel Blu Dipinto Di Blu (Volare)",
-        "newArtist": ""
+        "newArtist": "N/A"
     },
     {
         "session": 2,
@@ -13,52 +13,52 @@
         "bestRecord": "Mack The Knife - Bobby Darin",
         "bestAlbum": "Come Dance With Me - Frank Sinatra",
         "bestSong": "The Battle Of New Orleans",
-        "newArtist": ""
+        "newArtist": "N/A"
     },
     {
         "session": 3,
         "year": 1960,
-        "bestRecord": "The Theme From A Summer Place - Percy Faith",
+        "bestRecord": "The Theme From A Summer Place - Percy Faith & His Orchestra",
         "bestAlbum": "The Button-Down Mind Of Bob Newhart - Bob Newhart",
         "bestSong": "Theme From Exodus",
-        "newArtist": ""
+        "newArtist": "N/A"
     },
     {
         "session": 4,
         "year": 1961,
         "bestRecord": "Moon River - Henry Mancini",
-        "bestAlbum": "The Button-Down Mind Of Bob Newhart - Bob Newhart",
+        "bestAlbum": "Judy At Carnegie Hall - Judy Garland",
         "bestSong": "Moon River",
-        "newArtist": ""
+        "newArtist": "N/A"
     },
     {
         "session": 5,
         "year": 1962,
         "bestRecord": "I Left My Heart In San Francisco - Tony Bennett",
-        "bestAlbum": "The Button-Down Mind Of Bob Newhart - Bob Newhart",
+        "bestAlbum": "The First Family - Vaughn Meader",
         "bestSong": "What Kind Of Fool Am I",
-        "newArtist": ""
+        "newArtist": "N/A"
     },
     {
         "session": 6,
         "year": 1963,
         "bestRecord": "Days Of Wine And Roses - Henry Mancini",
-        "bestAlbum": "The Button-Down Mind Of Bob Newhart - Bob Newhart",
+        "bestAlbum": "The Barbra Streisand Album - Barbra Streisand",
         "bestSong": "Days Of Wine And Roses",
-        "newArtist": ""
+        "newArtist": "N/A"
     },
     {
         "session": 7,
         "year": 1964,
-        "bestRecord": "The Girl From Ipanema - Stan Getz",
-        "bestAlbum": "Getz/Gilberto - Astrud Gilberto",
+        "bestRecord": "The Girl From Ipanema - Stan Getz & Astrud Gilberto",
+        "bestAlbum": "Getz/Gilberto - Stan Getz & João Gilberto",
         "bestSong": "Hello, Dolly!",
-        "newArtist": ""
+        "newArtist": "N/A"
     },
     {
         "session": 8,
         "year": 1965,
-        "bestRecord": "A Taste Of Honey - Herb Alpert",
+        "bestRecord": "A Taste Of Honey - Herb Alpert And The Tijuana Brass",
         "bestAlbum": "September Of My Years - Frank Sinatra",
         "bestSong": "The Shadow Of Your Smile (Love Theme From \\The Sandpiper\\)",
         "newArtist": "Tom Jones"
@@ -69,39 +69,39 @@
         "bestRecord": "Strangers In The Night - Frank Sinatra",
         "bestAlbum": "A Man And His Music - Frank Sinatra",
         "bestSong": "Michelle",
-        "newArtist": ""
+        "newArtist": "N/A"
     },
     {
         "session": 10,
         "year": 1967,
         "bestRecord": "Up, Up And Away - 5th Dimension",
-        "bestAlbum": "Sgt. Pepper's Lonely Hearts Club Band - Bobbie Gentry",
+        "bestAlbum": "Sgt. Pepper's Lonely Hearts Club Band - The Beatles",
         "bestSong": "Up, Up And Away",
         "newArtist": "Bobbie Gentry"
     },
     {
         "session": 11,
         "year": 1968,
-        "bestRecord": "Mrs. Robinson - Glen Campbell",
-        "bestAlbum": "By The Time I Get To Phoenix - Dionne Warwick",
+        "bestRecord": "Mrs. Robinson - Simon And Garfunkel",
+        "bestAlbum": "By The Time I Get To Phoenix - Glen Campbell",
         "bestSong": "Little Green Apples",
-        "newArtist": ""
+        "newArtist": "Jose Feliciano"
     },
     {
         "session": 12,
         "year": 1969,
         "bestRecord": "Aquarius/Let The Sunshine In (The Flesh Failures) - 5th Dimension",
-        "bestAlbum": "Blood, Sweat And Tears - Peggy Lee",
+        "bestAlbum": "Blood, Sweat And Tears - Blood, Sweat And Tears",
         "bestSong": "Games People Play",
-        "newArtist": ""
+        "newArtist": "Crosby, Stills And Nash"
     },
     {
         "session": 13,
         "year": 1970,
-        "bestRecord": "Bridge Over Troubled Water - Dionne Warwick",
-        "bestAlbum": "Bridge Over Troubled Water - Ray Stevens",
+        "bestRecord": "Bridge Over Troubled Water - Simon And Garfunkel",
+        "bestAlbum": "Bridge Over Troubled Water - Simon And Garfunkel",
         "bestSong": "Bridge Over Troubled Water",
-        "newArtist": ""
+        "newArtist": "Carpenters"
     },
     {
         "session": 14,
@@ -109,15 +109,15 @@
         "bestRecord": "It's Too Late - Carole King",
         "bestAlbum": "Tapestry - Carole King",
         "bestSong": "You've Got A Friend",
-        "newArtist": ""
+        "newArtist": "Carly Simon"
     },
     {
         "session": 15,
         "year": 1972,
         "bestRecord": "The First Time Ever I Saw Your Face - Roberta Flack",
-        "bestAlbum": "The Concert For Bangla Desh - George Harrison",
+        "bestAlbum": "The Concert For Bangla Desh - George Harrison, Ravi Shankar, Bob Dylan, Leon Russell, Ringo Starr, Billy Preston, Eric Clapton & Klaus Voormann",
         "bestSong": "The First Time Ever I Saw Your Face",
-        "newArtist": ""
+        "newArtist": "America"
     },
     {
         "session": 16,
@@ -125,7 +125,7 @@
         "bestRecord": "Killing Me Softly With His Song - Roberta Flack",
         "bestAlbum": "Innervisions - Stevie Wonder",
         "bestSong": "Killing Me Softly With His Song",
-        "newArtist": ""
+        "newArtist": "Bette Midler"
     },
     {
         "session": 17,
@@ -133,15 +133,15 @@
         "bestRecord": "I Honestly Love You - Olivia Newton-John",
         "bestAlbum": "Fulfillingness' First Finale - Stevie Wonder",
         "bestSong": "The Way We Were",
-        "newArtist": ""
+        "newArtist": "Marvin Hamlisch"
     },
     {
         "session": 18,
         "year": 1975,
-        "bestRecord": "Love Will Keep Us Together - Paul Simon",
-        "bestAlbum": "Still Crazy After All These Years - Chick Corea",
+        "bestRecord": "Love Will Keep Us Together - Captain & Tennille",
+        "bestAlbum": "Still Crazy After All These Years - Paul Simon",
         "bestSong": "Send In The Clowns",
-        "newArtist": ""
+        "newArtist": "Natalie Cole"
     },
     {
         "session": 19,
@@ -149,7 +149,7 @@
         "bestRecord": "This Masquerade - George Benson",
         "bestAlbum": "Songs In The Key Of Life - Stevie Wonder",
         "bestSong": "I Write The Songs",
-        "newArtist": ""
+        "newArtist": "Starland Vocal Band"
     },
     {
         "session": 20,
@@ -157,21 +157,21 @@
         "bestRecord": "Hotel California - Eagles",
         "bestAlbum": "Rumours - Fleetwood Mac",
         "bestSong": "You Light Up My Life",
-        "newArtist": ""
+        "newArtist": "Love Theme From A Star Is Born (Evergreen)"
     },
     {
         "session": 21,
         "year": 1978,
         "bestRecord": "Just The Way You Are - Billy Joel",
-        "bestAlbum": "Brahms: Concerto For Violin In D - No artist found",
+        "bestAlbum": "Saturday Night Fever - Soundtrack - (Various Artists)",
         "bestSong": "Just The Way You Are",
         "newArtist": "A Taste Of Honey"
     },
     {
         "session": 22,
         "year": 1979,
-        "bestRecord": "What A Fool Believes - Billy Joel",
-        "bestAlbum": "52nd Street - Dionne Warwick",
+        "bestRecord": "What A Fool Believes - The Doobie Brothers",
+        "bestAlbum": "52nd Street - Billy Joel",
         "bestSong": "What A Fool Believes",
         "newArtist": "Rickie Lee Jones"
     },
@@ -187,7 +187,7 @@
         "session": 24,
         "year": 1981,
         "bestRecord": "Bette Davis Eyes - Kim Carnes",
-        "bestAlbum": "Double Fantasy - John Lennon",
+        "bestAlbum": "Double Fantasy - John Lennon & Yoko Ono",
         "bestSong": "Bette Davis Eyes",
         "newArtist": "Sheena Easton"
     },
@@ -218,8 +218,8 @@
     {
         "session": 28,
         "year": 1985,
-        "bestRecord": "We Are The World - Phil Collins",
-        "bestAlbum": "No Jacket Required - Whitney Houston",
+        "bestRecord": "We Are The World - USA For Africa (Various Artists)",
+        "bestAlbum": "No Jacket Required - Phil Collins",
         "bestSong": "We Are The World",
         "newArtist": "Sade"
     },
@@ -259,15 +259,15 @@
         "session": 33,
         "year": 1990,
         "bestRecord": "Another Day In Paradise - Phil Collins",
-        "bestAlbum": "Back On The Block - Mariah Carey",
+        "bestAlbum": "Back On The Block - Quincy Jones (And Various Artists)",
         "bestSong": "From A Distance",
         "newArtist": "Mariah Carey"
     },
     {
         "session": 34,
         "year": 1991,
-        "bestRecord": "Unforgettable - Natalie Cole",
-        "bestAlbum": "Unforgettable With Love - Bonnie Raitt",
+        "bestRecord": "Unforgettable - Natalie Cole (With Nat \"King\" Cole)",
+        "bestAlbum": "Unforgettable With Love - Natalie Cole",
         "bestSong": "Unforgettable",
         "newArtist": "Marc Cohn"
     },
@@ -330,8 +330,8 @@
     {
         "session": 42,
         "year": 1999,
-        "bestRecord": "Smooth - Santana",
-        "bestAlbum": "Supernatural - Rob Thomas",
+        "bestRecord": "Smooth - Santana Featuring Rob Thomas",
+        "bestAlbum": "Supernatural - Santana",
         "bestSong": "Smooth",
         "newArtist": "Christina Aguilera"
     },
@@ -347,7 +347,7 @@
         "session": 44,
         "year": 2001,
         "bestRecord": "Walk On - U2",
-        "bestAlbum": "O Brother, Where Art Thou? - Soundtrack - Nelly Furtado",
+        "bestAlbum": "O Brother, Where Art Thou? - Soundtrack - (Various Artists)",
         "bestSong": "Fallin'",
         "newArtist": "Alicia Keys"
     },
@@ -370,8 +370,8 @@
     {
         "session": 47,
         "year": 2004,
-        "bestRecord": "Here We Go Again - Ray Charles",
-        "bestAlbum": "Genius Loves Company - Norah Jones",
+        "bestRecord": "Here We Go Again - Ray Charles & Norah Jones",
+        "bestAlbum": "Genius Loves Company - Ray Charles & Various Artists",
         "bestSong": "Daughters",
         "newArtist": "Maroon 5"
     },
@@ -402,8 +402,8 @@
     {
         "session": 51,
         "year": 2008,
-        "bestRecord": "Please Read The Letter - Robert Plant",
-        "bestAlbum": "Raising Sand - Alison Krauss",
+        "bestRecord": "Please Read The Letter - Robert Plant & Alison Krauss",
+        "bestAlbum": "Raising Sand - Robert Plant & Alison Krauss",
         "bestSong": "Viva La Vida",
         "newArtist": "Adele"
     },
@@ -434,16 +434,16 @@
     {
         "session": 55,
         "year": 2012,
-        "bestRecord": "Somebody That I Used To Know - Gotye",
-        "bestAlbum": "Babel - Kimbra",
+        "bestRecord": "Somebody That I Used To Know - Gotye Featuring Kimbra",
+        "bestAlbum": "Babel - Mumford & Sons",
         "bestSong": "We Are Young",
         "newArtist": "Fun."
     },
     {
         "session": 56,
         "year": 2013,
-        "bestRecord": "Get Lucky - Daft Punk",
-        "bestAlbum": "Random Access Memories - Pharrell Williams",
+        "bestRecord": "Get Lucky - Daft Punk Featuring Pharrell Williams & Nile Rodgers",
+        "bestAlbum": "Random Access Memories - Daft Punk",
         "bestSong": "Royals",
         "newArtist": "Macklemore & Ryan Lewis"
     },
@@ -458,8 +458,8 @@
     {
         "session": 58,
         "year": 2015,
-        "bestRecord": "Uptown Funk - Mark Ronson",
-        "bestAlbum": "1989 - Bruno Mars",
+        "bestRecord": "Uptown Funk - Mark Ronson Featuring Bruno Mars",
+        "bestAlbum": "1989 - Taylor Swift",
         "bestSong": "Thinking Out Loud",
         "newArtist": "Meghan Trainor"
     },

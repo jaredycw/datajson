@@ -17,17 +17,18 @@ chrome_options = Options()
 chrome_options.add_argument("--ignore-certificate-errors")
 driver = webdriver.Chrome(options=chrome_options)
 
-
+newArtist = ""
 bestAlbum = ""
 bestSong = ""
 bestRecord = ""
+
 
 
 wait = WebDriverWait(driver, 10)
  
 print("Start scraping the tracks")
 
-for i in range(1, session_total ):
+for i in range(1, session_total):
 
     try:
         session = i
@@ -55,27 +56,44 @@ for i in range(1, session_total ):
         wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, ".text-left.font-polaris.uppercase")))
         wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, ".h-full.w-full.flex.flex-col.items-center.mt-6")))
         wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, ".mb-15px.text-center .w-full.text-center.font-polaris.font-bold.tracking-wider")))
-        wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, ".mb-15px.text-center .awards-category-link a")))
+        wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, ".mb-15px.text-center .awards-category-link p")))
 
         section = driver.find_elements(By.CSS_SELECTOR, ".h-full.w-full.flex.flex-col.items-center.mt-6")
         award_titles = driver.find_elements(By.CSS_SELECTOR, ".text-left.font-polaris.uppercase")
         winner_song = driver.find_elements(By.CSS_SELECTOR, ".mb-15px.text-center .w-full.text-center.font-polaris.font-bold.tracking-wider")
-        artist_element = driver.find_elements(By.CSS_SELECTOR, ".mb-15px.text-center .awards-category-link a")
+        artist_element = driver.find_elements(By.CSS_SELECTOR, ".mb-15px.text-center .awards-category-link p")
         new_artist_element = driver.find_elements(By.CSS_SELECTOR, ".mb-15px.text-center .text-center.font-polaris.tracking-wider")
-        newArtist = ""
+
+        newArtist = "N/A"
+        bestAlbum = "N/A"
+        bestSong = "N/A"
+        bestRecord = "N/A"
+
         for j in range(len(section)):
             if award_titles[j].text == "ALBUM OF THE YEAR":
-                print("ALBUM OF THE YEAR is", winner_song[j].text)
-                winner = winner_song[j].text
-                tidy_winner = winner.replace("\"", "")
-
                 if j < len(artist_element):
+                    print("ALBUM OF THE YEAR is", winner_song[j].text)
+                    winner = winner_song[j].text
+                    tidy_winner = winner.replace("\"", "")
+                    if j < len(artist_element):
+                        bestAlbum = tidy_winner + " - " + artist_element[j].text
+                    else:
+                        artist_element = "Various Artist"
+                        bestAlbum = tidy_winner + " - " + artist_element
+
+                print("==========================================")
+            elif award_titles[j].text == "ALBUM OF THE YEAR (OTHER THAN CLASSICAL)":
+                print("ALBUM OF THE YEAR (OTHER THAN CLASSICAL) is", winner_song[j].text)
+                if j < len(artist_element):
+                    winner = winner_song[j].text
+                    tidy_winner = winner.replace("\"", "")
                     bestAlbum = tidy_winner + " - " + artist_element[j].text
                 else:
-                    # Handle the case when j is out of range
+                    winner = winner_song[j].text
+                    tidy_winner = winner.replace("\"", "")
                     artist_element = "No artist found"
                     bestAlbum = tidy_winner + " - " + artist_element
-                print("==========================================")
+
             
             if award_titles[j].text == "RECORD OF THE YEAR":
                 print("RECORD OF THE YEAR is", winner_song[j].text)
@@ -113,6 +131,15 @@ for i in range(1, session_total ):
                 else:
                     newArtist = "N/A"
                 print("==========================================")
+            elif award_titles[j].text == "BEST NEW ARTIST OF THE YEAR":
+                if j < len(artist_element):
+                    new_artist_element = new_artist_element[j].text
+                    tidy_new_artist_element = new_artist_element.replace("\"", "")
+                    if new_artist_element:
+                        print("tidy new is", tidy_new_artist_element)
+                        newArtist = tidy_new_artist_element
+                    else:
+                        newArtist = "N/A"
 
         
     except:
@@ -136,6 +163,6 @@ for i in range(1, session_total ):
 driver.quit()
 
 # Save the data to a JSON file
-with open("list.json", "w", encoding="utf-8") as jsonfile:
+with open("data.json", "w", encoding="utf-8") as jsonfile:
     json.dump(song_list, jsonfile, ensure_ascii=False, indent=4)
     print('finished all')
