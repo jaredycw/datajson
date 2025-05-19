@@ -244,60 +244,60 @@
         "sessionNumber": 25,
         "year": 2006,
         "bestFilm": "黑社會 Election ",
-        "bestDirector": "杜琪峰",
-        "bestScreenPlay": "游乃海、葉天成 ",
-        "bestActor": "梁家輝",
-        "bestActress": "周迅"
+        "bestDirector": "杜琪峰（黑社會）",
+        "bestScreenPlay": "游乃海、葉天成（黑社會）",
+        "bestActor": "梁家輝（黑社會）",
+        "bestActress": "周迅（如果·愛）"
     },
     {
         "session": "第26屆香港電影金像獎提名及得獎名單",
         "sessionNumber": 26,
         "year": 2007,
         "bestFilm": "父子",
-        "bestDirector": "譚家明",
-        "bestScreenPlay": "譚家明、田開良",
-        "bestActor": "劉青雲",
-        "bestActress": "鞏俐"
+        "bestDirector": "譚家明（父子）",
+        "bestScreenPlay": "譚家明、田開良（父子）",
+        "bestActor": "劉青雲（我要成名）",
+        "bestActress": "鞏俐（滿城盡帶黃金甲）"
     },
     {
         "session": "第27屆香港電影金像獎提名及得獎名單",
         "sessionNumber": 27,
         "year": 2008,
-        "bestFilm": "投名狀   ",
-        "bestDirector": "陳可辛",
-        "bestScreenPlay": "韋家輝、歐健兒 ",
-        "bestActor": "李連杰",
-        "bestActress": "斯琴高娃"
+        "bestFilm": "投名狀",
+        "bestDirector": "陳可辛（投名狀）",
+        "bestScreenPlay": "韋家輝、歐健兒（神探）",
+        "bestActor": "李連杰（投名狀）",
+        "bestActress": "斯琴高娃（姨媽的后現代生活）"
     },
     {
         "session": "第28屆香港電影金像獎提名及得獎名單",
         "sessionNumber": 28,
         "year": 2009,
         "bestFilm": "葉問   ",
-        "bestDirector": "許鞍華",
-        "bestScreenPlay": "呂筱華 ",
-        "bestActor": "張家輝",
-        "bestActress": "鮑起靜"
+        "bestDirector": "許鞍華（天水圍的日與夜）",
+        "bestScreenPlay": "呂筱華（天水圍的日與夜）",
+        "bestActor": "張家輝（証人）",
+        "bestActress": "鮑起靜（天水圍的日與夜）"
     },
     {
         "session": "第29屆香港電影金像獎提名及得獎名單",
         "sessionNumber": 29,
         "year": 2010,
         "bestFilm": "十月圍城   ",
-        "bestDirector": "陳德森",
-        "bestScreenPlay": "羅啟銳 ",
-        "bestActor": "任達華",
-        "bestActress": "惠英紅"
+        "bestDirector": "陳德森（十月圍城）",
+        "bestScreenPlay": "羅啟銳（歲月神偷）",
+        "bestActor": "任達華（歲月神偷）",
+        "bestActress": "惠英紅（心魔）"
     },
     {
         "session": "第30屆香港電影金像獎提名及得獎名單",
         "sessionNumber": 30,
         "year": 2011,
         "bestFilm": "打擂台",
-        "bestDirector": "徐克",
-        "bestScreenPlay": "彭浩翔、麥曦茵",
-        "bestActor": "謝霆鋒 ",
-        "bestActress": "劉嘉玲"
+        "bestDirector": "徐克（狄仁傑之通天帝國）",
+        "bestScreenPlay": "彭浩翔、麥曦茵（志明與春嬌）",
+        "bestActor": "謝霆鋒（綫人）",
+        "bestActress": "劉嘉玲（狄仁傑之通天帝國）"
     },
     {
         "session": "第31屆香港電影金像獎提名及得獎名單",
@@ -314,8 +314,8 @@
         "sessionNumber": 32,
         "year": 2013,
         "bestFilm": "寒戰",
-        "bestDirector": "梁樂民、陸劍青",
-        "bestScreenPlay": "梁樂民、陸劍青",
+        "bestDirector": "梁樂民、陸劍青（寒戰）",
+        "bestScreenPlay": "梁樂民、陸劍青（寒戰）",
         "bestActor": "梁家輝（寒戰）",
         "bestActress": "楊千嬅（春嬌與志明）"
     },
@@ -325,7 +325,7 @@
         "year": 2014,
         "bestFilm": "一代宗師The Grandmaster",
         "bestDirector": "王家衛（一代宗師）",
-        "bestScreenPlay": "鄒靜之、徐皓峰、王家衛",
+        "bestScreenPlay": "鄒靜之、徐皓峰、王家衛（一代宗師）"",
         "bestActor": "張家輝（激戰）",
         "bestActress": "章子怡（一代宗師）"
     },
@@ -335,7 +335,7 @@
         "year": 2015,
         "bestFilm": "黃金時代",
         "bestDirector": "許鞍華（黃金時代）",
-        "bestScreenPlay": "麥兆輝、莊文強",
+        "bestScreenPlay": "麥兆輝、莊文強（竊聽風雲3）",
         "bestActor": "劉青雲（竊聽風雲3）",
         "bestActress": "趙薇（親愛的）"
     },
@@ -385,7 +385,7 @@
         "year": 2020,
         "bestFilm": "少年的你 Better Days",
         "bestDirector": "曾國祥（少年的你）",
-        "bestScreenPlay": "林詠琛、李媛、許伊萌",
+        "bestScreenPlay": "林詠琛、李媛、許伊萌（少年的你）",
         "bestActor": "太保（叔‧叔）",
         "bestActress": "周冬雨（少年的你）"
     },
@@ -393,20 +393,40 @@
         "session": "第40屆香港電影金像獎提名及得獎名單",
         "sessionNumber": 40,
         "year": 2021,
-        "bestFilm": "怒火Raging Fire",
-        "bestDirector": "陳木勝",
-        "bestScreenPlay": "歐健兒、岑君茜",
-        "bestActor": "謝賢",
-        "bestActress": "劉雅瑟"
+        "bestFilm": "怒火　Raging Fire",
+        "bestDirector": "陳木勝（怒火）",
+        "bestScreenPlay": "歐健兒、岑君茜（智齒）",
+        "bestActor": "謝賢（殺出個黃昏）",
+        "bestActress": "劉雅瑟（智齒）"
     },
     {
         "session": "第41屆香港電影金像獎提名名單",
         "sessionNumber": 41,
         "year": 2022,
         "bestFilm": "給十九歳的我",
-        "bestDirector": "韋家輝",
-        "bestScreenPlay": "韋家輝、陳偉斌、麥天樞",
-        "bestActor": "劉青雲",
-        "bestActress": "鄭秀文"
+        "bestDirector": "韋家輝（神探大戰）",
+        "bestScreenPlay": "韋家輝、陳偉斌、麥天樞（神探大戰）",
+        "bestActor": "劉青雲（神探大戰）",
+        "bestActress": "鄭秀文（流水落花）"
+    }，
+    {
+        "session": "第42屆香港電影金像獎提名名單",
+        "sessionNumber": 42,
+        "year": 2023,
+        "bestFilm": "毒舌大狀",
+        "bestDirector": "鄭保瑞（命案）",
+        "bestScreenPlay": "游乃海、李春暉（命案）",
+        "bestActor": "梁朝偉（金手指）",
+        "bestActress": "余香凝（白日之下）"
+    }，
+    {
+        "session": "第43屆香港電影金像獎提名名單",
+        "sessionNumber": 43,
+        "year": 2024,
+        "bestFilm": "九龍城寨之圍城",
+        "bestDirector": "鄭保瑞（九龍城寨之圍城）",
+        "bestScreenPlay": "陳茂賢、鄭緯機（破。地獄）",
+        "bestActor": "劉青雲（爸爸）",
+        "bestActress": "衛詩雅（破。地獄）"
     }
 ]
