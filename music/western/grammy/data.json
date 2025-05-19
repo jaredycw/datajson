@@ -518,5 +518,21 @@
         "bestAlbum": "Harry's House - Harry Styles",
         "bestSong": "Just Like That",
         "newArtist": "Samara Joy"
+    },
+    {
+        "session": 66,
+        "year": 2023,
+        "bestRecord": "Flowers - Miley Cyrus",
+        "bestAlbum": "Midnights - Taylor Swift",
+        "bestSong": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+        "newArtist": "Victoria Monét"
+    },
+    {
+        "session": 67,
+        "year": 2024,
+        "bestRecord": "Not Like Us - Kendrick Lamar",
+        "bestAlbum": "COWBOY CARTER - Beyoncé",
+        "bestSong": "Not Like Us",
+        "newArtist": "Chappell Roan"
     }
 ]
