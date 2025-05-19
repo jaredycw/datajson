@@ -948,5 +948,25 @@
         "bestDirectingDrama": "N/A",
         "bestDirecting": "Everything Everywhere All at Once\nDaniel Kwan and Daniel Scheinert",
         "bestFilm": "Everything Everywhere All at Once\nDaniel Kwan, Daniel Scheinert and Jonathan Wang, Producers"
+    },
+    {
+        "session": 96,
+        "year": 2024,
+        "bestActor": "Cillian Murphy\nOppenheimer",
+        "bestActress": "Emma Stone\nPoor Things",
+        "bestDirectingComedy": "N/A",
+        "bestDirectingDrama": "N/A",
+        "bestDirecting": "Oppenheimer\nChristopher Nolan",
+        "bestFilm": "Oppenheimer\nEmma Thomas, Charles Roven and Christopher Nolan, Producers"
+    },
+    {
+        "session": 97,
+        "year": 2025,
+        "bestActor": "Adrien Brody\nThe Brutalist",
+        "bestActress": "Mikey Madison\nAnora",
+        "bestDirectingComedy": "N/A",
+        "bestDirectingDrama": "N/A",
+        "bestDirecting": "Anora\nSean Baker",
+        "bestFilm": "Anora\nAlex Coco, Samantha Quan and Sean Baker, Producers"
     }
 ]
